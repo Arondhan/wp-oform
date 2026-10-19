@@ -1,0 +1,67 @@
+<article>
+
+<header>
+<h1>Shared Storage Tactics: Turning a Warband Bank Into a Leveling Engine for Alts</h1>
+<p>Leveling several characters has traditionally meant repeating supply runs, mail trips, and auction house visits. The Warband Bank, introduced with the War Within expansion, changes that routine by giving every character on an account a common place to store and retrieve goods. The result is less downtime and more time spent in content. This guide explains how the system works, how to organize it, and where its limits appear.</p>
+</header>
+
+<section>
+<h2>Why Does Shared Storage Change the Alt Leveling Routine?</h2>
+<p><strong>One account-wide storage space removes the friction that once made gearing and supplying multiple characters a logistical chore.</strong></p>
+<p>Before shared storage, moving a stack of potions or a spare weapon to a lower-level character usually meant finding a mailbox and waiting. A Warband Bank collapses that process into a single visit. Consumables, crafting materials, and gear placed inside are available to every member of the warband, regardless of level or location. That matters during a new leveling push, when a character needs food, potions, or a quick weapon upgrade and the player would rather not interrupt the session.</p>
+<p>The convenience is not only about speed. It also lowers the cost of starting a new class. When supplies are already waiting, the first hours feel less like preparation and more like play. Players can experiment with a fresh role without first rebuilding a private stockpile.</p>
+</section>
+
+<section>
+<h2>How Is the Bank Reached and What Can It Hold?</h2>
+<p><strong>Access comes through bankers and a mobile option, while the storage itself covers the goods most alts need during a leveling run.</strong></p>
+<p>The bank is not tied to one capital city visit. Characters can use banker services where those services exist, and mobile access lets a player reach the same storage without returning to town. Its contents are broad: consumables, materials for professions, and equipment. That combination covers the three recurring needs of an alt army — healing and buffs, crafting progress, and gear swaps.</p>
+<table>
+<thead>
+<tr><th>Feature</th><th>Detail</th></tr>
+</thead>
+<tbody>
+<tr><td>Tab count</td><td>5</td></tr>
+<tr><td>Item slots per tab</td><td>98</td></tr>
+<tr><td>Total item slots</td><td>490</td></tr>
+<tr><td>Access methods</td><td>Bankers and mobile access</td></tr>
+</tbody>
+</table>
+<p>Those figures describe the full storage layout rather than a single character's backpack. In practice, the bank can absorb a large amount of accumulated material before space becomes the limiting factor.</p>
+</section>
+
+<section>
+<h2>Which Organization Scheme Keeps Leveling Smooth?</h2>
+<p><strong>A functional layout separates goods by purpose, so a player can grab what a character needs without searching through unrelated stacks.</strong></p>
+<p>Treat each tab as a room with a job. One tab can hold consumables, another can serve professions, and a third can carry spare equipment. Keeping those categories apart shortens every visit and makes it obvious when a supply is running low.</p>
+<ol>
+<li>Group consumables by use, such as potions and food, so a leveling character can resupply in seconds.</li>
+<li>Reserve a tab for crafting materials that gathering and crafting alts share.</li>
+<li>Clear outdated gear on a regular schedule instead of letting it crowd useful pieces.</li>
+<li>Set aside space for high-value or event-specific rewards that should not be mixed with routine stock.</li>
+</ol>
+<p>A little discipline here pays off later. An unorganized bank becomes a second inventory puzzle, and the time saved by shared access disappears while the player hunts for one missing item.</p>
+</section>
+
+<section>
+<h2>Where Does the Economic Benefit Come From?</h2>
+<p><strong>Shared storage supports a small internal economy, letting gathering and crafting characters feed one another instead of relying on outside purchases.</strong></p>
+<p>Consider a simple pipeline. A gathering alt brings materials back to the bank. A crafting alt draws those materials out and produces gear or consumables. The finished goods return to the bank for whichever character needs them next. Nothing has to be mailed, and nothing has to be bought at whatever price the market happens to show that day.</p>
+<p>That loop saves gold, but it also gives the player control over supply. Instead of reacting to price swings, a warband can keep a buffer of essential items and refill it when gathering is convenient. The same buffer helps when a new patch or seasonal activity raises demand for certain materials; preparation becomes a matter of checking the bank rather than scrambling for sources.</p>
+</section>
+
+<section>
+<h2>What Problems Tend to Appear?</h2>
+<p><strong>The main drawbacks are practical: unlocking tabs has a cost, and a large collection can become difficult to manage.</strong></p>
+<p>Additional tabs are not free, so players have to decide which ones are worth the investment first. A common approach is to unlock space only when the current layout is genuinely full, rather than buying capacity in advance. Clutter is the other issue. Shared storage grows quietly, and old expansion materials can linger long after they stop being useful.</p>
+<p>Regular reviews solve most of this. Set aside a moment to remove obsolete gear, consolidate partial stacks, and check whether a tab still matches its intended purpose. The goal is not a perfect archive; it is a working supply room that supports the next character rather than slowing them down.</p>
+</section>
+
+<section>
+<h2>How Should Players Plan for Future Content?</h2>
+<p><strong>A Warband Bank works best as a long-term account asset, not a temporary convenience for one leveling project.</strong></p>
+<p>Future updates may bring additional tabs, better sorting, or more automated ways to manage inventory. Players cannot rely on specifics, but they can build habits that will survive those changes: keep categories stable, avoid hoarding without purpose, and stock only what the warband actually uses.</p>
+<p>That mindset turns the bank into a durable advantage. Each new alt starts with a support network already in place, and each finished character can contribute something back. The system does not eliminate the leveling grind, but it removes much of the busywork around it.</p>
+</section>
+
+</article>

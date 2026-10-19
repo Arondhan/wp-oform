@@ -1,0 +1,159 @@
+<article>
+
+  <header>
+
+    <h1>A Practical Guide to Heroic Dungeon Queues, Loot Decisions, and Group Efficiency</h1>
+
+    <p>Heroic dungeons still offer a reliable mix of challenge and reward, yet the difference between a productive session and a forgettable one often comes down to choices made before the first pull. Which queue to enter, what to keep, and what to disenchant all shape the value of the run. This guide approaches those decisions from the perspective of a player who wants steady progress without wasting time or bag space.</p>
+
+  </header>
+
+  <section>
+
+    <h2>What makes a heroic dungeon worth queueing for?</h2>
+
+    <p><strong>The best queues combine useful loot, healthy population, and a wait short enough that the run actually starts while you still want to do it.</strong></p>
+
+    <p>Loot quality alone is a poor reason to sit in a long queue. A dungeon that fills quickly and drops gear you can use will usually outperform a more prestigious option that leaves you waiting. Popularity matters for a second reason as well: groups form faster when the instance is in demand, and faster groups tend to chain pulls with less downtime.</p>
+
+    <p>Queue time is not a fixed number. The table below reflects the general reputation of three heroic dungeons rather than a guarantee for any particular evening.</p>
+
+  </section>
+
+  <section>
+
+    <h2>When should a drop go straight to the disenchanter?</h2>
+
+    <p><strong>Disenchant when an item sits below your current gear, misses your specialization, or has little market demand.</strong></p>
+
+    <p>The first check is item level. A piece that is clearly weaker than what you already wear has no place in your bags, even if its stats look appealing in isolation. The second check is fit: a high item level does not help if the secondary stats work against your build. The third is the market. Some drops sell well, while others move slowly enough that the materials are worth more than the listing.</p>
+
+    <ol>
+
+      <li>Compare item level against the piece you currently use.</li>
+
+      <li>Check whether the stats support your specialization and playstyle.</li>
+
+      <li>Look at current demand before assuming an item is worth selling.</li>
+
+      <li>Clear clutter early so useful drops are easy to spot.</li>
+
+    </ol>
+
+  </section>
+
+  <section class="data-table">
+
+    <h2>Which heroic dungeons deserve priority?</h2>
+
+    <p><strong>Three dungeons stand out for a combination of reasonable queue times, strong loot, and steady group interest.</strong></p>
+
+    <p>Use the table as a quick comparison, then weigh it against your own role and the gear you still need.</p>
+
+    <table>
+
+      <thead>
+
+        <tr>
+
+          <th>Dungeon Name</th>
+
+          <th>Average Queue Time</th>
+
+          <th>Loot Quality</th>
+
+          <th>Popularity Rating</th>
+
+        </tr>
+
+      </thead>
+
+      <tbody>
+
+        <tr>
+
+          <td>The Necrotic Wake</td>
+
+          <td>5-10 minutes</td>
+
+          <td>High</td>
+
+          <td>Very High</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Spires of Ascension</td>
+
+          <td>3-7 minutes</td>
+
+          <td>Very High</td>
+
+          <td>High</td>
+
+        </tr>
+
+        <tr>
+
+          <td>De Other Side</td>
+
+          <td>4-8 minutes</td>
+
+          <td>High</td>
+
+          <td>High</td>
+
+        </tr>
+
+      </tbody>
+
+    </table>
+
+  </section>
+
+  <section>
+
+    <h2>How should a group approach the run itself?</h2>
+
+    <p><strong>Clear communication, familiarity with mechanics, and a balanced composition do more for success than raw gear.</strong></p>
+
+    <p>Before the first pull, confirm who is tanking, who is healing, and which player will handle crowd control. That short conversation prevents most of the confusion that slows a pickup group. During combat, prioritize targets by threat rather than by whatever is closest. Enemies that heal or buff their allies can undo several seconds of damage if left alone, and dangerous casters deserve attention before the pack is thinned. Crowd control used early reduces incoming damage and gives the healer room to breathe.</p>
+
+    <p>Cooldown timing is part of communication, not a private decision. A defensive ability used before a predictable spike is worth more than one pressed after the group is already low. Stacking offensive cooldowns with the group's burst turns a dangerous pack into a short one. Add-ons that track buffs, debuffs, and cooldowns can support these decisions, but they do not replace a player who knows the encounter.</p>
+
+  </section>
+
+  <section>
+
+    <h2>What usually goes wrong in heroic pickup groups?</h2>
+
+    <p><strong>Most friction comes from unclear roles, uneven gear, and messages that never get read.</strong></p>
+
+    <p>Miscommunication is the common thread. A group that assumes everyone knows the plan will often discover otherwise at the worst moment, usually when a mechanic demands a specific response. Less experienced players may also be unsure of their responsibilities, and patience costs less than a wipe. Gear discrepancies create a different problem: a strategy that works for a well-geared group may fail when one member takes far more damage than expected. Adjusting pull size or assigning extra support is usually better than blaming the under-geared player.</p>
+
+    <p>Positioning deserves its own mention. Standing in the wrong place creates avoidable damage, missed uptime, and healing pressure that compounds over a long run. A quick glance at the encounter's danger zones before the pull is often enough to prevent the mistake.</p>
+
+  </section>
+
+  <section>
+
+    <h2>How can a player prepare for future dungeon content?</h2>
+
+    <p><strong>Staying current with patches, refining your rotation, and experimenting with builds keeps heroic experience useful as content changes.</strong></p>
+
+    <p>Read patch notes when they appear and pay attention to how they alter the dungeons you already know. Community discussion can fill in the practical details that patch notes leave out. Practice outside the instance helps as well: a cleaner rotation and better defensive habits carry into future content. When the meta shifts, try a different build rather than forcing an old one, and compare results instead of assuming the change will be worse. Players who treat each run as feedback tend to adapt faster than those who repeat the same approach and hope for a different outcome.</p>
+
+  </section>
+
+  <section>
+
+    <h2>What does an efficient heroic session look like from start to finish?</h2>
+
+    <p><strong>An efficient session begins with a well-chosen queue, continues with disciplined pulls, and ends with bags that contain only items worth keeping.</strong></p>
+
+    <p>Pick the dungeon that matches your needs and your patience for waiting. Enter with roles settled and crowd control assigned. Pull at a pace the group can sustain, using cooldowns deliberately rather than reactively. Evaluate drops as they arrive so the disenchant decision does not pile up at the end. Review the run afterward, note the pack that caused trouble, and carry that lesson into the next queue.</p>
+
+  </section>
+
+</article>

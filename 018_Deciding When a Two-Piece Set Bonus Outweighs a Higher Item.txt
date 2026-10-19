@@ -1,0 +1,81 @@
+<article>
+
+  <header>
+    <h1>Deciding When a Two-Piece Set Bonus Outweighs a Higher Item Level</h1>
+    <p>Tier set bonuses complicate the usual rule that higher item level is always better. A two-piece effect can change a rotation or supply a resource that no amount of raw stats replaces, while a careless swap can leave a character weaker despite a more impressive inventory. This article examines the tradeoffs, the breakpoints worth respecting, and the habits that keep a set plan from becoming a trap.</p>
+  </header>
+
+  <section>
+    <h2>The Measures That Make the Comparison Useful</h2>
+    <p><strong>Set bonus power, item level difference, stat gain, and rotation impact should be judged together.</strong></p>
+    <p>A bonus that looks strong on paper may not fit the way a character actually deals damage. Likewise, a large item level jump can conceal a loss of a effect that made the rotation flow. The table below groups the broad cases and gives a rough sense of when each factor deserves extra weight. It is a framework for questions, not a substitute for testing the character in real content.</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Bonus Strength</th>
+          <th>Item Level Gap</th>
+          <th>Stat Gain</th>
+          <th>Rotation Effect</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>High, around 10-15%</td>
+          <td>30-40 item levels</td>
+          <td>Significant primary stats</td>
+          <td>Changes ability priority</td>
+        </tr>
+        <tr>
+          <td>Medium, around 5-10%</td>
+          <td>15-30 item levels</td>
+          <td>Moderate secondary stats</td>
+          <td>Minor adjustments</td>
+        </tr>
+        <tr>
+          <td>Low, under 5%</td>
+          <td>0-15 item levels</td>
+          <td>Negligible</td>
+          <td>No change</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>When the Two-Piece Effect Earns Its Place</h2>
+    <p><strong>A two-piece bonus deserves priority when it creates a meaningful power spike in the abilities a character relies on.</strong></p>
+    <p>The strongest case appears when the bonus unlocks something structural: a shorter cooldown, an additional resource, or a change in how often a key ability can be used. Those effects can outweigh a modest item level gain because they alter the pace of the entire rotation. The question to ask is whether the bonus makes the character better at the job it is supposed to do. If the answer is yes, keeping the set pieces may be correct even when a higher item level alternative is available.</p>
+  </section>
+
+  <section>
+    <h2>A Repeatable Process for Managing Set Pieces</h2>
+    <p><strong>Set management works best as a short routine repeated whenever new gear arrives.</strong></p>
+    <p>First, identify which slots belong to the tier set and which alternatives are competing for them. Then evaluate the two-piece effect against the character's needs rather than against a generic ranking. The Catalyst can turn suitable high-level non-tier gear into a set piece, which makes completion more achievable. The weekly vault deserves attention as well, because a tier option there can preserve a bonus without forcing a weaker item into another slot.</p>
+    <ol>
+      <li>List the tier slots and the best non-tier alternative for each one.</li>
+      <li>Test the two-piece effect in the content you actually play.</li>
+      <li>Use the Catalyst on gear that can complete a set without creating a new weakness.</li>
+      <li>Check the vault for tier pieces before spending resources elsewhere.</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>The Breakpoint That Prevents a Power Collapse</h2>
+    <p><strong>Breaking a four-piece bonus is safest when the replacement includes at least a new two-piece bonus and a clear item level advantage.</strong></p>
+    <p>A common guideline is to make that move only when the replacement is at least 15 item levels above the old piece. The point is to avoid entering a no-bonus zone, where the old effect is gone and the new set is not yet complete. During that interval, the character may perform worse than before despite wearing better individual items. Patience is often the stronger choice, especially when the next piece is likely to arrive soon.</p>
+  </section>
+
+  <section>
+    <h2>The Legacy Trap and Other Pitfalls</h2>
+    <p><strong>Old tier sets can remain active while newer gear slowly overtakes them, creating a false sense of security.</strong></p>
+    <p>Players sometimes cling to a familiar bonus long after its relative value has fallen. The result is a sudden loss of power when the swap finally happens, because the replacement was evaluated only at the moment of change. Comparing the full setup, not just the item being replaced, avoids that surprise. It also helps to remember that a bonus which no longer changes the rotation may be worth less than raw stats, even if it was essential in an earlier season.</p>
+    <p>A simple test is to write down what the bonus actually provides and then ask whether the same job could be done by the new item's stats or by another effect already in the build. If the answer is unclear, the set is probably doing less than the player assumes. This kind of check is especially valuable before a planned break, when emotion and habit can outweigh a careful comparison.</p>
+  </section>
+
+  <section>
+    <h2>Keeping the Plan Current After Patches</h2>
+    <p><strong>Class changes and bonus adjustments can alter the value of a set overnight.</strong></p>
+    <p>A periodic mechanical audit after each major patch is a practical response. Review the current bonuses, check whether the rotation still depends on them, and compare the result with the gear that is actually available. This does not require rebuilding the character every week; it requires noticing when an old assumption has stopped being true. Players who review rather than assume are less likely to sacrifice item level for a bonus that no longer pays them back.</p>
+  </section>
+
+</article>

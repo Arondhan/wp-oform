@@ -1,0 +1,79 @@
+<article>
+  <header>
+    <h1>The Sentry Totem Shamans Used to Watch Warsong Gulch From Afar</h1>
+    <p>World of Warcraft has retired many abilities over the years, and some of them left a stronger impression than their power level would suggest. The Shaman's Sentry Totem is one of those curiosities. It turned a support class into a pair of distant eyes in Warsong Gulch, giving a team information it could not otherwise obtain. Its removal says as much about the game's changing design priorities as it does about the totem itself.</p>
+  </header>
+
+  <section>
+    <h2>A totem built for information rather than damage</h2>
+    <p><strong>Sentry Totems gave Shamans a way to place vision in a specific area and observe enemy movement from a distance.</strong></p>
+    <p>When deployed, the totem created a zone of vision that let the Shaman and the team see enemies approaching key objectives or carrying a flag. In a battleground where awareness often decides the outcome, that intelligence was valuable. Placement mattered: a totem near the flag or at a choke point could reveal an attack before it arrived. The ability was less about fighting and more about knowing where the fight would happen.</p>
+  </section>
+
+  <section>
+    <h2>What the totem offered</h2>
+    <p><strong>The Sentry Totem's value came from a small set of features that shaped how teams used it.</strong></p>
+    <table>
+      <thead>
+        <tr>
+          <th>Feature</th>
+          <th>Description</th>
+          <th>Impact</th>
+          <th>Alternative</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Vision Radius</td>
+          <td>Created an area of vision around the totem</td>
+          <td>Improved the team's awareness</td>
+          <td>Stealth classes scouting</td>
+        </tr>
+        <tr>
+          <td>Duration</td>
+          <td>Disappeared after a limited time</td>
+          <td>Encouraged careful placement and timing</td>
+          <td>Frequent repositioning</td>
+        </tr>
+        <tr>
+          <td>Cooldown</td>
+          <td>Had to wait before redeployment</td>
+          <td>Rewarded planning and resource management</td>
+          <td>Other totems or abilities</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Why the ability eventually disappeared</h2>
+    <p><strong>Balance concerns and the game's evolving design led to the removal of Sentry Totems.</strong></p>
+    <p>Developers wanted to streamline gameplay and limit mechanics that produced overwhelming advantages. A team that relied on the totem for information could become passive, waiting for intelligence instead of making dynamic decisions. Seeing enemy movement without risk or meaningful counterplay reduced the tension of strategic encounters. New forms of detection and vision also made the old totem less relevant. Removing it was part of a broader effort to simplify the game and prevent one class from dominating PvP awareness.</p>
+    <p>The change also reflected a wider pattern. As expansions added new abilities and new ways to gather information, old tools that once defined a class's utility became harder to justify. Sentry Totems were not removed because they were useless, but because the game around them had moved toward different priorities.</p>
+  </section>
+
+  <section>
+    <h2>How Shamans and their teams adjusted</h2>
+    <p><strong>After the totem was gone, players rebuilt their intelligence gathering around other tools and habits.</strong></p>
+    <p>Shamans leaned more heavily on other totems, such as Grounding Totem and Healing Stream Totem, which supported the team in different ways. Rogues became even more important as scouts because stealth allowed them to report enemy positions. Hunters used their pets to track movement, and other classes contributed their own methods of gathering information. Teams also relied more on voice chat and in-game markers to relay what they saw. The result was a more versatile style of play built on communication rather than a single ability.</p>
+    <ul>
+      <li>Report enemy movement early instead of waiting for a totem to reveal it.</li>
+      <li>Use stealth classes to scout key routes and objectives.</li>
+      <li>Combine communication with class abilities that reveal or track enemies.</li>
+      <li>Keep watching the map and the team's surroundings between fights.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Terrain and enemy composition shaped placement</h2>
+    <p><strong>The layout of Warsong Gulch and the classes on the opposing team influenced where a Sentry Totem could survive.</strong></p>
+    <p>High ground, natural cover, and choke points all mattered. A totem on a hill overlooking the flag area could provide broad visibility while staying harder to spot. A totem placed in a heavily trafficked area might be destroyed quickly and contribute nothing. Stealth classes such as Rogues and Druids posed a particular threat to the totem's longevity. Players had to weigh visibility against safety and adapt when the enemy composition changed. A totem that provided vision but died immediately was worse than no totem at all, because it consumed a cooldown and gave the team false confidence.</p>
+  </section>
+
+  <section>
+    <h2>Rebuilding reconnaissance without the totem</h2>
+    <p><strong>Players can optimize their approach by improving communication, using alternative abilities, and sharpening situational awareness.</strong></p>
+    <p>Voice chat and in-game markers let a team share information in real time. Abilities such as the Hunter's Tracking or the Mage's Invisibility can provide scouting value that partly replaces the lost vision. Constant awareness of surroundings helps players anticipate threats rather than react to them. Teams that communicate well and watch the battlefield can still create ambushes and coordinate attacks without a Sentry Totem. The lesson is that information has always been a resource, even when the tool that provided it is gone.</p>
+    <p>That adjustment took time. Teams had to learn to trust reports from allies and to act on incomplete information, which is harder than watching a totem do the work. The habits they developed made them less dependent on any single ability and more responsive to the flow of a match.</p>
+  </section>
+</article>

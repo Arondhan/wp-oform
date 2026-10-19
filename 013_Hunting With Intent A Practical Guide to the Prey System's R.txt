@@ -1,0 +1,72 @@
+<article>
+
+<header>
+<h1>Hunting With Intent: A Practical Guide to the Prey System's Risk and Reward</h1>
+<p>The Prey system gives Midnight players a reason to return to the open world and chase dangerous targets between other activities. Hunts combine exploration, combat, and a seasonal reward track, with difficulty settings that change how much risk the player accepts. This guide covers how to unlock the system, how a hunt unfolds, what the rewards look like, and where the danger actually comes from.</p>
+</header>
+
+<section>
+<h2>How Is the Prey System Unlocked?</h2>
+<p><strong>Reaching level 90 and completing the introductory quest from Astalor Bloodsworn in Silvermoon City opens the system.</strong></p>
+<p>The entry point is the quest "Prey: Astalor's Initiative." Finishing that questline grants access to Normal hunts. Hard and Nightmare difficulties become available as the introductory sequence is completed, so the system introduces its risks in stages rather than dumping every option on a new player at once.</p>
+<p>That structure is useful. A player can learn the objective loop on the lowest setting, then raise the difficulty when the mechanics and the layout of the hunting areas feel familiar.</p>
+</section>
+
+<section>
+<h2>What Does a Hunt Actually Involve?</h2>
+<p><strong>A hunt is a chain of open-world tasks that gradually draws out a powerful target.</strong></p>
+<p>The objectives are varied rather than a single kill. Defeating elite mobs, completing world quests, and looting treasures all contribute to progress. The Anguish crystal on the interface tracks how far the hunt has advanced, giving the player a visible sign that the target is getting closer.</p>
+<p>Because the tasks happen in the open world, other players and wandering enemies can interfere. That unpredictability is part of the design: the hunt is not a private instance, and the target may respond aggressively when cornered.</p>
+</section>
+
+<section>
+<h2>How Do the Three Difficulties Compare?</h2>
+<p><strong>Normal teaches the loop, Hard adds penalties and stronger rewards, and Nightmare introduces extra affixes and the toughest fights.</strong></p>
+<p>The difficulty choice changes both the objective structure and the value of the loot. A player who wants gear catch-up can stay on the lower settings, while someone chasing exclusive cosmetics has a reason to accept the harder versions.</p>
+<table>
+<thead>
+<tr><th>Difficulty</th><th>Objectives</th><th>Rewards</th><th>Distinguishing Feature</th></tr>
+</thead>
+<tbody>
+<tr><td>Normal</td><td>Basic objectives to locate and defeat the target</td><td>Adventurer-track gear, crafting materials</td><td>Entry-level experience</td></tr>
+<tr><td>Hard</td><td>More objectives and penalties</td><td>Higher upgrade-track gear, more currency</td><td>Stacking damage and death penalties</td></tr>
+<tr><td>Nightmare</td><td>Extra affixes and the hardest encounters</td><td>Best rewards, including exclusive cosmetics</td><td>Ambush mechanics and demanding fights</td></tr>
+</tbody>
+</table>
+<p>The table is a useful planning tool, but the practical difference is how quickly a mistake compounds. On the higher settings, a careless pull can cost more than a few seconds.</p>
+</section>
+
+<section>
+<h2>What Makes a Hunt Go Smoothly?</h2>
+<p><strong>Efficient hunts come from prioritizing the right objectives, using group tools, and preparing for unexpected attacks.</strong></p>
+<ol>
+<li>Focus on world objectives that advance the hunt, such as world quests and elite kills, instead of wandering between unrelated tasks.</li>
+<li>Use the group finder to join players pursuing the same target, which speeds up the objective chain and shares the risk.</li>
+<li>Keep health high and react quickly, because a target can ambush the player rather than waiting to be engaged.</li>
+<li>Check the Anguish crystal regularly to confirm the hunt is progressing in the intended direction.</li>
+</ol>
+<p>Grouping is especially helpful on the harder difficulties. More players mean more interrupts, more healing, and fewer deaths during an ambush. The tradeoff is coordination: everyone needs to be working on the same stage of the hunt.</p>
+</section>
+
+<section>
+<h2>What Rewards Come From Prey Hunts?</h2>
+<p><strong>Hunts provide gear upgrades, crafting materials, mounts, pets, and cosmetics, with better outcomes on higher difficulties.</strong></p>
+<p>The most direct reward is Adventurer-track gear, which supports the catch-up goal. Crafting components also drop, giving professions a reason to participate. Hard and Nightmare settings improve the quality of the gear and the amount of currency earned.</p>
+<p>Longer-term rewards come through the Preyseeker's Journey, a seasonal track with ten ranks. Mounts, pets, and other cosmetics sit along that path, so repeated hunts build toward visible collection goals rather than only incremental item level. Completing hunts also contributes to the Great Vault, adding another route to stronger gear.</p>
+</section>
+
+<section>
+<h2>Where Are the Real Risks?</h2>
+<p><strong>Ambushes, harsher penalties on the upper difficulties, and competition in shared spaces are the main sources of trouble.</strong></p>
+<p>Ambush mechanics are the obvious danger. A target that attacks first can catch a player with low health or an important cooldown on standby. Hard and Nightmare add penalties that make each death more costly, which raises the value of defensive play and careful pulls.</p>
+<p>Competition is subtler. Other players may be hunting the same target or occupying the same area, and the open-world setting does not guarantee a clean encounter. Patience and a willingness to regroup are often more useful than forcing a fight at a bad moment.</p>
+</section>
+
+<section>
+<h2>How Will the System Grow?</h2>
+<p><strong>Midnight's update cycle is expected to add new targets, challenges, and rewards to the Prey structure over time.</strong></p>
+<p>Seasonal design gives the system room to expand. Future content may introduce additional bosses, cosmetic rewards, mounts, and mechanics that change how hunts are approached. That makes the Prey track a long-term activity rather than a one-time leveling detour.</p>
+<p>Players who want to stay efficient should watch patch notes and community discussion for changes to targets and reward structures. The core loop is likely to remain recognizable, but the details around difficulty and incentives can shift from season to season.</p>
+</section>
+
+</article>

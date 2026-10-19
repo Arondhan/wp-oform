@@ -1,0 +1,87 @@
+<article>
+
+<header>
+<h1>Player Housing in Midnight: Plot Ownership, Decor Economy, and Neighborhood Prestige</h1>
+<p>Housing in World of Warcraft: Midnight turns a long-requested feature into a persistent social space. Players can claim a plot, furnish it, and build a reputation within a neighborhood without gaining combat power. The systems are simple at the surface but connected underneath, so understanding the entry cost, the decor currencies, and the neighborhood loop makes the project far less confusing.</p>
+</header>
+
+<section>
+<h2>What Do You Get for the Entry Price?</h2>
+<p><strong>For 1,000 gold, an account can begin a housing project that supports two plots and a purely cosmetic form of progression.</strong></p>
+<p>The low entry cost is deliberate: housing is meant to be available to players who want it without turning the feature into a major investment. Each account can own two plots, and the neighborhoods come in Alliance and Horde versions as well as public and private forms. Decorating uses Community Coupons and Blueprints, while house level and decor slots provide the long-term structure. None of it affects gameplay power.</p>
+<table>
+<thead>
+<tr>
+<th>Cost to Unlock</th>
+<th>Max Plots per Account</th>
+<th>Neighborhood Types</th>
+<th>Decor Economy Features</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1,000 Gold</td>
+<td>2</td>
+<td>Alliance, Horde</td>
+<td>Community Coupons, Blueprints</td>
+</tr>
+<tr>
+<td>—</td>
+<td>—</td>
+<td>Public, Private</td>
+<td>Decor Slots, House Level</td>
+</tr>
+<tr>
+<td>—</td>
+<td>—</td>
+<td>—</td>
+<td>Advanced Mode, Basic Mode</td>
+</tr>
+</tbody>
+</table>
+<p>The table is a useful summary, but the practical experience depends on how actively a player engages with the neighborhood rather than on the numbers alone.</p>
+</section>
+
+<section>
+<h2>How Is the First Plot Claimed?</h2>
+<p><strong>The introductory quest "A House For You" opens the system, takes roughly 15 minutes, and leads directly to the first purchase.</strong></p>
+<p>A Midnight-enabled account receives the quest automatically upon logging in. If it does not appear, Alliance players can speak with Lyssabel Dawnpetal in Stormwind, and Horde players can find Tocho Cloudhide in Orgrimmar. Completing the chain explains the basics and unlocks the Housing Dashboard, which is opened with the H key. From there, the House Finder tab shows available plots and reserves a vacant one for four minutes while the player decides.</p>
+</section>
+
+<section>
+<h2>How Does a Decorator Move From Basic to Advanced?</h2>
+<p><strong>Start with Basic Mode for structure, then use Advanced Mode and Community Coupons to give the home a distinct character.</strong></p>
+<p>Basic Mode is the faster way to place essential furniture and fixtures. Advanced Mode rewards patience with finer control over placement and layout. Community Coupons are the main currency for new decor, so routine gameplay feeds directly into the housing project. Blueprints extend the process by letting players save and share designs.</p>
+<ol>
+<li>Place foundational furniture in Basic Mode.</li>
+<li>Switch to Advanced Mode to adjust placement and build unusual layouts.</li>
+<li>Earn Community Coupons through gameplay to expand the available decor.</li>
+<li>Watch for new Blueprints and use them to preserve or share favorite designs.</li>
+</ol>
+</section>
+
+<section>
+<h2>How Does a Neighborhood Build Prestige?</h2>
+<p><strong>Neighborhood choice shapes both the look of a home and the social opportunities that surround it.</strong></p>
+<p>Alliance and Horde neighborhoods each carry their own theme and community features. Neighborhood endeavors, favor, and progression give residents reasons to cooperate beyond decoration. Participating in community events and working with neighbors can raise prestige and open access to decor that a solo player might miss. The system rewards presence and cooperation more than rapid spending, which keeps the social side of housing relevant.</p>
+</section>
+
+<section>
+<h2>How Does House Level Change the Space?</h2>
+<p><strong>Each new decor item contributes to house level, and that progression gradually opens more room for the collection.</strong></p>
+<p>As the house level rises, additional rooms and decoration slots become available. The practical effect is that a player can display more achievements and personal touches without crowding the original space. A higher-level home also tends to attract more visitors, which feeds back into neighborhood prestige. The system encourages gradual collecting rather than a single large purchase, and it gives long-term purpose to Community Coupons earned through ordinary play. A player who decorates a little at a time will notice the change in the house before noticing the effort.</p>
+</section>
+
+<section>
+<h2>What Slows Progress and How Do You Plan Around It?</h2>
+<p><strong>Server lag during busy periods is the most visible obstacle, especially when leasing signs stop responding.</strong></p>
+<p>Highly populated neighborhoods can become difficult to navigate when many players are active at once. A leasing sign that will not respond can prevent a plot from being claimed, which is frustrating when a desired location is available. Choosing quieter hours for housing errands reduces the chance of running into that problem. Players who expect some congestion during major events can plan their visits around the crowd instead of fighting it.</p>
+</section>
+
+<section>
+<h2>Where Is Housing Heading Next?</h2>
+<p><strong>More customization, seasonal additions, and deeper community features are the likely direction for the system.</strong></p>
+<p>As decor accumulates, house level rises and unlocks additional rooms and decoration slots. That progression gives a home room to grow and provides space to display achievements and personal style. Patch 12.1 introduced Blueprints for saving, importing, and sharing designs, which already points toward a more collaborative housing community. Future seasonal events could add exclusive items, while neighborhood projects may create more reasons for residents to work together. For now, the wisest approach is to build steadily, keep an eye on patch notes, and treat the house as an ongoing project rather than a one-time purchase.</p>
+</section>
+
+</article>

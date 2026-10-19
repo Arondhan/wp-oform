@@ -1,0 +1,88 @@
+<article>
+
+<header>
+<h1>Devourer Demon Hunter in Midnight: Soul Fragment Flow and Void Metamorphosis Planning</h1>
+<p>The Devourer specialization gives Demon Hunters a ranged void playstyle built around saving resources and spending them in a short, explosive transformation. Damage depends less on constant button presses than on preparing a window and executing it cleanly. This guide explains how Soul Fragments feed Void Metamorphosis, which talents support the ranged approach, and where common rotation errors appear.</p>
+</header>
+
+<section>
+<h2>What Opens a Void Metamorphosis Window?</h2>
+<p><strong>Entering Void Metamorphosis requires a stockpile of Soul Fragments, and the form converts that preparation into greatly increased pressure.</strong></p>
+<p>The standard cost is 50 Soul Fragments, though the Soul Glutton talent lowers the requirement to 35. While transformed, Mastery becomes twice as effective, and the kit gains access to powerful options such as Collapsing Star and Cull. Consume changes into Devour, and Reap changes into Cull, both hitting harder than their normal versions. The form does not run on a fixed timer; its duration depends on how quickly Fury is drained while channeling abilities such as Void Ray. That detail makes the window a resource puzzle rather than a simple cooldown.</p>
+</section>
+
+<section>
+<h2>How Do Fragment Counts Shape the Opener?</h2>
+<p><strong>The state of the fragment reserve before a fight begins often decides how much damage the first Metamorphosis window can deliver.</strong></p>
+<p>Entering a boss encounter with a healthy stockpile allows the player to transform early and still rebuild toward the next window. Starting from nothing forces a longer setup period, during which the group may already be moving through cooldowns and damage phases. The same logic applies between pulls in a dungeon: a few extra fragments collected during trash can make the next important engagement smoother. Planning around this reserve is therefore part of the rotation, not an afterthought.</p>
+</section>
+
+<section>
+<h2>How Do You Bank Fragments Between Windows?</h2>
+<p><strong>Fragments left on the ground are a reserve, so the goal is to collect them at the right moment instead of sweeping them up immediately.</strong></p>
+<p>Consume and Reap generate Soul Fragments, and fragments that drop remain in place until picked up. That persistence allows a player to prepare the next transformation while the current one is still running. Fully channeling Void Ray triggers the Moment of Craving proc, which resets Reap's cooldown and opens another round of fragment generation. Planning around that proc keeps the resource cycle moving and reduces the dead time between Metamorphosis phases.</p>
+</section>
+
+<section>
+<h2>Which Talent Path Supports the Ranged Plan?</h2>
+<p><strong>The Annihilator path is the recommended choice for most content because it emphasizes Void Ray and Collapsing Star damage.</strong></p>
+<p>Annihilator offers flexibility and easier damage tuning, which makes it the safer default for players learning the specialization. The Void-Scarred path integrates melee play but currently has known bugs and is less favored. The table below lists core talents and their roles.</p>
+<table>
+<thead>
+<tr>
+<th>Talent</th>
+<th>Description</th>
+<th>Path</th>
+<th>Recommended Usage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Consume</td>
+<td>Generates Soul Fragments</td>
+<td>Core</td>
+<td>Always selected</td>
+</tr>
+<tr>
+<td>Void Ray</td>
+<td>Primary damage spender</td>
+<td>Annihilator</td>
+<td>Essential for DPS</td>
+</tr>
+<tr>
+<td>Collapsing Star</td>
+<td>High-damage ability during Metamorphosis</td>
+<td>Annihilator</td>
+<td>Key for burst phases</td>
+</tr>
+</tbody>
+</table>
+<p>Consume remains the foundation regardless of path, since without fragments there is no transformation to plan around. Void Ray and Collapsing Star then define what the window is worth.</p>
+</section>
+
+<section>
+<h2>What Does a Clean Metamorphosis Rotation Look Like?</h2>
+<p><strong>A strong window starts with Fury generation, converts fragments into high-damage casts, and leaves the next transformation partly prepared.</strong></p>
+<ol>
+<li>Cast Void Ray to build Fury at no cost.</li>
+<li>Spend Soul Fragments on Collapsing Star once enough are available.</li>
+<li>Use the Moment of Craving proc after the Void Ray channel to reset Reap.</li>
+<li>Collect additional fragments with Reap and Consume while watching the transformation's remaining time.</li>
+<li>Leave the form with enough fragments banked to begin the next cycle promptly.</li>
+</ol>
+<p>The sequence is less rigid than it looks. What matters is that Fury, fragments, and cooldowns are all moving toward the next window instead of being spent without a plan.</p>
+</section>
+
+<section>
+<h2>Which Mistakes Cost the Most Damage?</h2>
+<p><strong>Fragment mismanagement and poor window timing cause more lost damage than any single rotation error.</strong></p>
+<p>Entering a boss phase without enough fragments delays the burst that the specialization depends on. Wasting the Moment of Craving proc removes a reset and slows the next cycle. Melee talents can also create positioning problems, since standing in the wrong place adds unnecessary damage taken and interrupts casting. Finally, sloppy ability order inside Metamorphosis can waste the doubled Mastery and the limited duration. Each of these errors is easy to correct once the player starts tracking resources rather than reacting to whichever button is available.</p>
+</section>
+
+<section>
+<h2>How Should Gear and Practice Support the Spec?</h2>
+<p><strong>Intellect, Haste, and Mastery are the stats to prioritize, and repeated practice turns the resource cycle into habit.</strong></p>
+<p>Mastery gains extra value inside Void Metamorphosis, while the other priority stats support the spec's damage output. Gear should support the rotation rather than replace it, since no stat can compensate for a window entered without fragments. Practicing the opener and the transition between windows in different content builds the muscle memory needed for high-pressure fights. Reviewing performance after each session and comparing notes with other players helps the specialization stay effective as patches change talent values and interactions.</p>
+</section>
+
+</article>

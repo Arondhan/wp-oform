@@ -1,0 +1,153 @@
+<article>
+
+  <header>
+
+    <h1>Navigating Maisara Caverns, Lightbreaker Vault, and Den of Nalorakk as a Cohesive Group</h1>
+
+    <p>Three dungeons define the Midnight hierarchy for many groups: Maisara Caverns, Lightbreaker Vault, and Den of Nalorakk. Each asks for a different kind of discipline, yet all reward the same fundamentals of preparation and clear roles. This guide works through the trio with an emphasis on what a group should do before and during each run, rather than offering a single universal route.</p>
+
+  </header>
+
+  <section>
+
+    <h2>Why does team composition come before route planning?</h2>
+
+    <p><strong>A balanced group with a tank, a healer, and damage dealers gives every dungeon its best chance, and class synergy can matter as much as raw output.</strong></p>
+
+    <p>No route survives a group that cannot perform its roles. The tank absorbs damage and controls where enemies stand, the healer keeps the group alive through avoidable and unavoidable damage alike, and the damage dealers convert safe positioning into progress. Beyond those basics, look for classes whose buffs or debuffs complement the rest of the team. A group that plans its utility before entering will find fewer moments where a mechanic demands an answer nobody brought. The same composition advice applies across all three dungeons, even though the encounters inside them differ.</p>
+
+  </section>
+
+  <section>
+
+    <h2>How should a group move through Maisara Caverns?</h2>
+
+    <p><strong>Maisara Caverns rewards map knowledge, target priority, and crowd control more than raw speed.</strong></p>
+
+    <p>The dungeon is known for winding pathways and hidden traps, so a group that charges ahead will spend more time recovering than progressing. Study the layout before entering and agree on a route that does not rely on guesswork. Enemy composition matters too: some packs include creatures with area-of-effect attacks that punish clustered players, and others include support enemies whose healing or buffs can drag out a fight. Deal with those support targets first. Crowd control used to split a dangerous pack is often more valuable than another offensive cooldown.</p>
+
+    <ul>
+
+      <li>Review the map before the run and settle on a route.</li>
+
+      <li>Prioritize enemies that heal or strengthen the rest of the pack.</li>
+
+      <li>Use crowd control to reduce the number of active threats.</li>
+
+      <li>Coordinate target calls so the group focuses the same enemy.</li>
+
+    </ul>
+
+  </section>
+
+  <section>
+
+    <h2>What does the Lightbreaker Vault demand from a group?</h2>
+
+    <p><strong>The Lightbreaker Vault is a positioning and resource-management dungeon, with encounters that punish clumping and careless cooldown use.</strong></p>
+
+    <p>Spread out before area attacks land, but do not drift so far that healing becomes difficult. Boss fights in particular can drain health or mana quickly, which makes resource management a group concern rather than a healer's private problem. Time cooldowns around the moments when the encounter applies pressure, and say so out loud so nobody duplicates a response. Environmental hazards add another layer: they can deal damage or restrict movement, and a player who ignores them will often force the group to adjust mid-fight. Learning each boss's pattern lets the group anticipate rather than react.</p>
+
+  </section>
+
+  <section class="data-table">
+
+    <h2>What kind of loot does each dungeon offer?</h2>
+
+    <p><strong>Each dungeon has its own loot table, mixing gear with crafting materials, and higher difficulty generally improves the reward.</strong></p>
+
+    <p>The table summarizes the broad categories and the notable pieces associated with each location.</p>
+
+    <table>
+
+      <thead>
+
+        <tr>
+
+          <th>Dungeon</th>
+
+          <th>Loot Type</th>
+
+          <th>Notable Items</th>
+
+          <th>Crafting Materials</th>
+
+        </tr>
+
+      </thead>
+
+      <tbody>
+
+        <tr>
+
+          <td>Maisara Caverns</td>
+
+          <td>Armor, Weapons</td>
+
+          <td>Maisara's Shield, Cavernous Blade</td>
+
+          <td>Crystalline Shards</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Lightbreaker Vault</td>
+
+          <td>Artifacts, Accessories</td>
+
+          <td>Lightbreaker Ring, Vault Key</td>
+
+          <td>Radiant Essence</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Den of Nalorakk</td>
+
+          <td>Weapons, Rare Gear</td>
+
+          <td>Nalorakk's Fang, Beastmaster's Bow</td>
+
+          <td>Feral Claws</td>
+
+        </tr>
+
+      </tbody>
+
+    </table>
+
+  </section>
+
+  <section>
+
+    <h2>How do the Den of Nalorakk's mechanics change a fight?</h2>
+
+    <p><strong>The Den of Nalorakk introduces summons and environmental shifts that require the group to adapt in real time.</strong></p>
+
+    <p>Some bosses call minions into the fight, and those additions need attention before they overwhelm the group's ability to control the space. Other mechanics alter the environment, forcing a reposition that can interrupt a damage window or separate a player from support. Assign responsibilities before the pull: who handles adds, who stays on the boss, and who calls the transition. Clear ownership prevents the usual problem in which everyone turns toward the adds and the boss goes unattended, or everyone stays on the boss while the adds multiply.</p>
+
+  </section>
+
+  <section>
+
+    <h2>What preparation makes all three runs smoother?</h2>
+
+    <p><strong>Preparation means bringing the right gear and consumables, knowing the mechanics, and agreeing on how the group will communicate.</strong></p>
+
+    <p>Check gear before entering rather than discovering a problem after the first wipe. Consumables are cheap insurance, and a group that uses them consistently will notice the difference on progression attempts. Knowledge of the dungeon's key mechanics is equally important; a player who understands what a boss is about to do can position correctly without being told. During the run, use voice or in-game messages to call important mechanics and to confirm target switches. Adaptability matters as well: if a strategy is not working, change it rather than repeating it harder.</p>
+
+  </section>
+
+  <section>
+
+    <h2>How can a player improve from one run to the next?</h2>
+
+    <p><strong>Review each attempt, ask for feedback, and practice the rotational and defensive habits that support the group.</strong></p>
+
+    <p>After a dungeon, take a minute to identify what went well and what caused the most trouble. Feedback from teammates is more useful when it is specific, so ask about a particular pull rather than a general impression. Practice outside the dungeon keeps your rotation sharp and makes defensive usage more automatic. Staying current with game changes matters too, because a strategy that worked last patch may need adjustment. The recommended team size for these dungeons ranges from five to ten players depending on difficulty and mechanics, and all classes can contribute, though tanks and healers are especially valuable for managing damage and survival. Loot runs are typically limited by daily or weekly reset timers, and a group that is struggling should reassess its approach rather than push through the same failure.</p>
+
+  </section>
+
+</article>

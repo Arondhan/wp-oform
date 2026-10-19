@@ -1,0 +1,147 @@
+<article>
+
+  <header>
+
+    <h1>Why Paladins Once Spent So Much of Every Raid Refreshing Greater Blessings</h1>
+
+    <p>Greater Blessings gave Paladins a distinctive role in group content, but they also turned buff maintenance into a recurring task. Casting on a large roster every fifteen minutes demanded coordination, timing, and an understanding of what each blessing contributed. This guide explains how the blessings worked, how Paladins chose between them, and why managing them across a raid could feel like a job within the job.</p>
+
+  </header>
+
+  <section>
+
+    <h2>What Did a Greater Blessing Actually Do?</h2>
+
+    <p><strong>Greater Blessings were powerful buffs applied to multiple allies, improving damage, healing, or survivability depending on the version chosen.</strong></p>
+
+    <p>A Paladin could cover up to 40 players with a Greater Blessing, and the effect lasted long enough that the cooldown of fifteen minutes shaped the rhythm of an encounter. The benefit was not generic: each blessing addressed a particular need, so the choice had to match the group. Timing also mattered, because a blessing refreshed at the wrong moment could be wasted. Paladins therefore had to think about the roster before the pull, not only about their own rotation.</p>
+
+  </section>
+
+  <section>
+
+    <h2>Which Blessing Suited Which Group?</h2>
+
+    <p><strong>The value of each blessing depended on who received it and what the encounter demanded.</strong></p>
+
+    <p>A blessing that increased attack power naturally favored melee damage dealers, while one that improved mana regeneration served healers and casters. A blessing that raised all stats could help every class, which made it a flexible option when the composition was mixed. The table below sets out the three common choices and their intended audiences.</p>
+
+    <table>
+
+      <thead>
+
+        <tr>
+
+          <th>Greater Blessing</th>
+
+          <th>Effect</th>
+
+          <th>Ideal Targets</th>
+
+          <th>Cooldown</th>
+
+        </tr>
+
+      </thead>
+
+      <tbody>
+
+        <tr>
+
+          <td>Might</td>
+
+          <td>Increases attack power</td>
+
+          <td>Melee damage dealers</td>
+
+          <td>15 minutes</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Wisdom</td>
+
+          <td>Increases mana regeneration</td>
+
+          <td>Healers and casters</td>
+
+          <td>15 minutes</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Kings</td>
+
+          <td>Increases all stats</td>
+
+          <td>All classes</td>
+
+          <td>15 minutes</td>
+
+        </tr>
+
+      </tbody>
+
+    </table>
+
+  </section>
+
+  <section>
+
+    <h2>How Did Paladins Coordinate the Casts?</h2>
+
+    <p><strong>Raid-wide buffs required as much coordination as any boss mechanic, because the right blessing had to reach the right people at the right time.</strong></p>
+
+    <p>The first step was to assess the raid composition and decide which blessings would produce the greatest benefit. The second was to communicate the plan so that other Paladins did not duplicate the same buff or leave a group uncovered. Cooldowns and durations had to be watched continuously, especially when an encounter had phases that changed the pressure on the raid. Strategies also had to adapt from one boss to the next, since a blessing that suited one fight might be a poor choice in another.</p>
+
+    <ul>
+
+      <li>Review the raid composition before deciding which blessings to use.</li>
+
+      <li>Coordinate with other Paladins to avoid overlapping coverage.</li>
+
+      <li>Track cooldowns and durations so refreshing happens on time.</li>
+
+      <li>Adjust the plan to the mechanics of each encounter.</li>
+
+    </ul>
+
+  </section>
+
+  <section>
+
+    <h2>Where Did the Pressure Come From?</h2>
+
+    <p><strong>Coordination, timing, and class synergy created challenges that were easy to underestimate.</strong></p>
+
+    <p>Not every player understood which blessing was active or what it contributed, and miscommunication could lead to overlapping buffs that added nothing. Casts that landed at the wrong moment wasted a cooldown that might be needed later. Composition added another layer: a blessing focused on mana regeneration made less sense for a group dominated by melee, while a blessing aimed at attack power offered little to casters. Paladins had to read the group rather than follow a fixed rule.</p>
+
+    <p>The burden was not constant. It returned every time the cycle came around, and it grew heavier when the raid was split into several groups or when players were replaced during a run. A Paladin who lost track of who had received which blessing could spend the next attempt correcting the gap instead of concentrating on the encounter.</p>
+
+  </section>
+
+  <section>
+
+    <h2>What Made the System Work Over Time?</h2>
+
+    <p><strong>Consistent communication and a willingness to adapt kept the blessing system useful despite its repetitive demands.</strong></p>
+
+    <p>Teams that discussed the plan before an encounter and adjusted during it spent less time recovering from mistakes. Reviewing performance afterward revealed where a blessing had been mistimed or misapplied. Staying informed about changes to game mechanics and class balance was equally important, because those changes could alter which blessing was worth using. Practice and simulation helped Paladins build the habits that made the routine feel less like a burden.</p>
+
+  </section>
+
+  <section>
+
+    <h2>Why Does This Era Still Matter?</h2>
+
+    <p><strong>The old blessing routine shows how much group support depended on preparation and communication, not only on raw output.</strong></p>
+
+    <p>Modern players may remember the upkeep as tedious, but it also created a clear responsibility: someone had to watch the whole raid rather than a single target. That perspective is useful in any group content, where buffs, assignments, and timing still decide whether a plan holds together. The fifteen-minute cycle may belong to the past, yet the lesson about coordination remains current.</p>
+
+    <p>Above all, the routine rewarded discipline. A Paladin who refreshed early and communicated clearly gave the raid a stable baseline, while one who waited until the last second created avoidable uncertainty. That contrast explains why the system remains a memorable example of support work: its value came from reliability rather than spectacle.</p>
+
+  </section>
+
+</article>

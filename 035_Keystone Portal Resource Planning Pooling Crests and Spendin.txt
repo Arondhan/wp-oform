@@ -1,0 +1,155 @@
+<article>
+
+  <header>
+
+    <h1>Keystone Portal Resource Planning: Pooling Crests and Spending Valorstones as a Team</h1>
+
+    <p>Progression through high-level dungeon content is rarely a solo effort. Keystone Portals, Runed Crests, and Valorstones form a small economy that a group can manage deliberately or let scatter across individual bags. The difference shows up in how quickly the team upgrades key pieces and how often someone is left short of the resource needed for the next step. This guide covers the practical side of that shared planning.</p>
+
+  </header>
+
+  <section>
+
+    <h2>What exactly is a Keystone Portal?</h2>
+
+    <p><strong>A Keystone Portal is a gateway into a specific dungeon, opened with a Keystone and scaled by that Keystone's level.</strong></p>
+
+    <p>Each portal points to a particular dungeon rather than a random selection. The Keystone that opens it can come from several sources, including lower-level dungeon completions and boss kills, and its level determines how difficult the dungeon becomes. Difficulty in turn affects both the quality and the quantity of rewards, which is why the group's portal choices matter beyond simple preference.</p>
+
+  </section>
+
+  <section>
+
+    <h2>How should a group pool Runed Crests without confusion?</h2>
+
+    <p><strong>Pooling works when one person leads, everyone can see the tally, and contributions rotate fairly.</strong></p>
+
+    <p>Start by choosing a coordinator. That player tracks completed dungeons and the crest totals each member has contributed or intends to use. A shared document or spreadsheet removes the guesswork and gives the group a single source of truth. Rotation matters as much as record keeping: if the same members always run the supportive role or the less rewarding path, resentment builds and the pool stalls. Set a goal for each session so the group knows whether it is farming a particular dungeon or simply clearing for volume.</p>
+
+    <ul>
+
+      <li>Keep a shared record of each member's crests and planned upgrades.</li>
+
+      <li>Rotate dungeon duties so the burden is not carried by one player.</li>
+
+      <li>Agree on a target for each run rather than drifting between portals.</li>
+
+      <li>Review the plan regularly and adjust when someone's needs change.</li>
+
+    </ul>
+
+  </section>
+
+  <section>
+
+    <h2>How can a team coordinate gear rotations around those resources?</h2>
+
+    <p><strong>Good coordination means checking each member's gear, scheduling the dungeons that supply the right resources, and spending pooled Valorstones where they help the group most.</strong></p>
+
+    <p>Begin with an honest inventory. Look at each player's equipped items and identify the slots where an upgrade would change performance rather than merely raise a number. From there, schedule runs toward the dungeons that produce the needed rewards. When Valorstones are pooled, the group can decide together whether a weapon upgrade for the main damage dealer is more valuable than spreading small improvements across several members. The answer changes as content releases, so the rotation should be revisited rather than treated as permanent.</p>
+
+  </section>
+
+  <section class="data-table">
+
+    <h2>How do Valorstones map onto gear upgrades?</h2>
+
+    <p><strong>Valorstones come from successful Keystone dungeon runs and are spent to improve gear, with the cost and priority varying by slot.</strong></p>
+
+    <p>The table offers a simple way to think about where the group's Valorstones should go first. Costs are modest, but the opportunity cost is real: every stone spent on a low-impact slot is one unavailable for a weapon or a major armor piece.</p>
+
+    <table>
+
+      <thead>
+
+        <tr>
+
+          <th>Gear Type</th>
+
+          <th>Valorstone Cost</th>
+
+          <th>Upgrade Benefits</th>
+
+          <th>Recommended Priority</th>
+
+        </tr>
+
+      </thead>
+
+      <tbody>
+
+        <tr>
+
+          <td>Weapons</td>
+
+          <td>3</td>
+
+          <td>Increased damage output</td>
+
+          <td>High</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Armor</td>
+
+          <td>2</td>
+
+          <td>Enhanced survivability</td>
+
+          <td>Medium</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Accessories</td>
+
+          <td>1</td>
+
+          <td>Improved stats</td>
+
+          <td>Low</td>
+
+        </tr>
+
+      </tbody>
+
+    </table>
+
+  </section>
+
+  <section>
+
+    <h2>What communication habits keep the pool healthy?</h2>
+
+    <p><strong>Clear channels, regular status checks, and visible decisions prevent hoarding and quiet resentment.</strong></p>
+
+    <p>Use one agreed place for updates, whether that is voice chat or a group message thread. Review the pool at the start or end of a session so everyone knows where things stand. When a member asks for a resource, the group should be able to see why and what it will upgrade. Transparency is the simplest defense against the suspicion that someone is taking more than their share. A short feedback round after a run also surfaces problems before they become a reason for the group to stop playing together.</p>
+
+    <p>Scheduling deserves a mention as well. Regular sessions at a consistent time make resource gathering predictable, and predictability is what allows a group to set meaningful goals.</p>
+
+  </section>
+
+  <section>
+
+    <h2>How do you fix a pool that has gone wrong?</h2>
+
+    <p><strong>Troubleshooting starts with a candid conversation about roles, records, and expectations.</strong></p>
+
+    <p>If contributions have drifted, hold a group discussion rather than quietly adjusting your own behavior. Clarify who is responsible for tracking, confirm that the shared document is current, and check whether anyone has been holding resources without saying so. Sometimes the problem is not greed but uncertainty: a member may not understand the pooling plan and may be saving crests for a personal upgrade that the group never discussed. Restating the plan and rebalancing the next few runs usually resolves more than a lecture about fairness.</p>
+
+  </section>
+
+  <section>
+
+    <h2>What keeps a resource pool sustainable over the long term?</h2>
+
+    <p><strong>Consistent runs, periodic review, and a willingness to adjust goals keep the shared economy from stalling.</strong></p>
+
+    <p>Set long-term targets for both resources and gear, then break them into smaller session goals. A group that knows it is working toward a specific weapon upgrade will tolerate a few repetitive runs far better than one that farms without a destination. Revisit the plan when new content arrives or when a member's role changes. Encourage members to speak up when their needs shift, and keep the record visible so nobody has to rely on memory. The aim is a routine that survives real life: a schedule the group can keep, goals it can actually reach, and enough flexibility that one missed week does not undo the whole effort.</p>
+
+  </section>
+
+</article>

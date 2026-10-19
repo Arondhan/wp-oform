@@ -1,0 +1,94 @@
+<article>
+
+<header>
+<h1>Earning Haranir Heritage Armor in Midnight: Race Unlock, Leveling Paths, and Cosmetic Rewards</h1>
+<p>The Haranir joined World of Warcraft: Midnight as an allied race, bringing a distinctive look and a heritage set that many collectors now pursue. The reward is straightforward to understand but easy to mishandle, because it depends on how the character is leveled rather than on a special vendor. This guide covers the unlock campaign, the rules behind the achievement, and the practical steps that carry a new Haranir to the required level.</p>
+</header>
+
+<section>
+<h2>What Does the Heritage Reward Actually Require?</h2>
+<p><strong>The armor arrives through an account achievement tied to leveling a Haranir to 50, not through a separate quest chain or purchase.</strong></p>
+<p>Players often expect a long cosmetic questline similar to older heritage sets. In this case the milestone itself is the gate. Once a Haranir reaches level 50 without paid assistance, the game awards "Heritage of the Haranir" and both visual variants become available to every Haranir character on the account. Because the unlock is account-wide, the work only has to be done once. The important detail is that the character must be leveled legitimately; a boosted character will not satisfy the condition.</p>
+</section>
+
+<section>
+<h2>How Is the Haranir Race Opened for Play?</h2>
+<p><strong>Before the armor can be earned, the race must be unlocked by finishing the Harandar campaign and its three connected storylines.</strong></p>
+<p>The campaign is divided into "Of Caves and Cradles," "Call of the Goddess," and "Emergence." Completing those chapters leads to a final assignment, "The War Beyond the Roots," which is offered by Elder Hagar outside the Harandar Portal in Silvermoon City. Turning in that quest grants "Allied Races: Haranir" and opens character creation for the race. It is worth treating the three chapters as one continuous story rather than separate errands, since the final quest only appears after the earlier work is finished.</p>
+</section>
+
+<section>
+<h2>Which Character Choices Count Toward the Achievement?</h2>
+<p><strong>Only a character that levels naturally from 10 to 50 without paid services will receive the heritage achievement.</strong></p>
+<p>Character boosts are the most common source of confusion. A boosted Haranir can still be played, but it will not trigger the armor unlock, and the achievement does not backfill later. Players who care about the set should therefore create the character deliberately and level it themselves. The same rule applies to any paid service that skips progression. Planning the character's role and leveling route before starting avoids the disappointment of reaching 50 with nothing to show for it.</p>
+</section>
+
+<section>
+<h2>How Should a New Haranir Be Leveled?</h2>
+<p><strong>A mix of rested experience, group content, and campaign progress keeps the climb to 50 steady without turning it into a grind.</strong></p>
+<p>Several habits make the process smoother:</p>
+<ul>
+<li>Log out in a capital city or inn so the character accumulates rested experience, which doubles leveling speed while it lasts.</li>
+<li>Join dungeon groups for faster experience than solo questing, and queue as a tank or healer when possible to shorten waits.</li>
+<li>Craft or buy experience-boosting potions; even a small percentage increase compounds across many levels.</li>
+<li>Follow the covenant campaign quests, which combine efficient experience with story progression.</li>
+</ul>
+<p>Mixing these activities also prevents fatigue. A player who alternates questing with dungeon runs tends to stay engaged longer than one who repeats a single activity for hours.</p>
+</section>
+
+<section>
+<h2>What Tools Does the Race Bring to the Journey?</h2>
+<p><strong>The Haranir toolkit adds mobility, area damage with healing, and small bonuses that support gathering and selective combat.</strong></p>
+<p>Rootwalking lets the character teleport to a world tree's roots, which is useful for returning to familiar ground without a long ride. Thorn Bloom damages several enemies while healing allies who are close by, giving the race a support-flavored offensive option. Their racial bonuses also improve gathering skills and experience gained from specific enemy types. Taken together, these traits make the Haranir flexible in both PvE and PvP, and they can be tailored to the player's preferred content.</p>
+</section>
+
+<section>
+<h2>What Do the Two Armor Variants Represent?</h2>
+<p><strong>The set splits into two looks associated with the Har'alnor and the Shul'ka, and both are unlocked by the same level milestone.</strong></p>
+<p>The two factions give the armor distinct identities, one leaning toward tradition and the other toward a more modern interpretation. Neither variant requires a separate grind, reputation, or purchase.</p>
+<table>
+<thead>
+<tr>
+<th>Armor Set</th>
+<th>Faction</th>
+<th>Visual Style</th>
+<th>Unlock Method</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Haranir Armor Set</td>
+<td>Har'alnor</td>
+<td>Traditional</td>
+<td>Reach Level 50</td>
+</tr>
+<tr>
+<td>Haranir Armor Set</td>
+<td>Shul'ka</td>
+<td>Modern</td>
+<td>Reach Level 50</td>
+</tr>
+<tr>
+<td>Both Sets</td>
+<td>Account-wide</td>
+<td>Cosmetic</td>
+<td>Achieve Level 50</td>
+</tr>
+</tbody>
+</table>
+<p>Because the reward is account-wide, a future Haranir can use the appearance immediately after creation. That makes the unlock a long-term addition to the account's transmog library rather than a single-character trophy.</p>
+</section>
+
+<section>
+<h2>How Can the Climb Be Made More Comfortable?</h2>
+<p><strong>Spreading progress across questing, dungeons, and PvP reduces burnout and shortens the perceived time to 50.</strong></p>
+<p>Rested experience and experience potions remain the simplest accelerators, but social play matters too. Running dungeons with friends or using Recruit-a-Friend bonuses can add substantial experience while making repeated content less tedious. The goal is not to rush blindly but to keep experience flowing from several sources at once. Players who vary their routine usually reach the required level with less frustration and a better feel for the race.</p>
+</section>
+
+<section>
+<h2>Why Does the Unlock Matter Beyond Appearance?</h2>
+<p><strong>The reward is cosmetic, but it serves as a lasting record of commitment to the race and its lore.</strong></p>
+<p>Heritage armor is meant to express where a character comes from, and the Haranir set carries that idea through both of its variants. Since the appearance is available to every Haranir on the account, it supports roleplay, transmog planning, and personal identity across multiple characters. For players who enjoy the cultural side of the game, the set is less about power and more about showing that the race was unlocked and leveled with care.</p>
+</section>
+
+</article>

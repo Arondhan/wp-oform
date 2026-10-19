@@ -1,0 +1,72 @@
+<article>
+
+<header>
+<h1>Capstones First: A Practical Approach to Efficient Hero Talent Pathing</h1>
+<p>Talent trees offer more choices than most builds can use, and the temptation to collect every convenient utility node is strong. A more reliable approach is to decide which capstone threshold the character actually needs, then build toward it with as little wasted travel as possible. This guide explains why capstones deserve priority, how to evaluate the path that leads to them, and which habits keep a build effective over time.</p>
+</header>
+
+<section>
+<h2>Why Do Capstone Thresholds Deserve Priority?</h2>
+<p><strong>Capstones are the powerful abilities and enhancements at the end of a talent tree, and they often define what a character can do in combat.</strong></p>
+<p>A capstone is not simply a nice bonus. It is frequently the payoff that makes a specialization feel complete, whether that means a major damage increase, a new area-control tool, or a stronger resource loop. Utility nodes can improve quality of life, but they rarely change the shape of an encounter the way a capstone does.</p>
+<p>That does not make utility worthless. It means utility should be chosen to support the capstone plan, not treated as the main goal of the tree. When points are scarce, the ability that changes the character's output usually deserves the first claim.</p>
+</section>
+
+<section>
+<h2>How Do Different Paths Compare?</h2>
+<p><strong>Paths differ in the capstone they deliver, the utility they pass through, and how much that combination affects overall performance.</strong></p>
+<p>The comparison below uses broad categories rather than specific class abilities. The point is to show how a capstone and its surrounding utility can produce very different results.</p>
+<table>
+<thead>
+<tr><th>Talent Path</th><th>Capstone Focus</th><th>Utility Along the Way</th><th>Overall Impact</th></tr>
+</thead>
+<tbody>
+<tr><td>Path A</td><td>Ultimate damage boost</td><td>Minor healing</td><td>High</td></tr>
+<tr><td>Path B</td><td>Area control</td><td>Mobility enhancements</td><td>Medium</td></tr>
+<tr><td>Path C</td><td>Resource generation</td><td>Defensive buffs</td><td>High</td></tr>
+</tbody>
+</table>
+<p>A path with a strong capstone can still be a poor choice if the route to it forces too many irrelevant points. The reverse is also true: a modest capstone can be correct when the path itself provides tools the character genuinely needs.</p>
+</section>
+
+<section>
+<h2>How Should a Player Identify the Right Capstone?</h2>
+<p><strong>Start with the character's role, then compare the available capstones against the content the player actually expects to face.</strong></p>
+<p>Damage dealers usually benefit from capstones that improve burst, sustained output, or critical pressure. Tanks tend to value survivability and crowd control. Supports look for tools that strengthen the group or extend their own utility. These are tendencies, not rules, because a specialization can bend them.</p>
+<p>Current community understanding of the meta is a useful input, but it should not replace a reading of the tree. A capstone that is popular in one context may be awkward in another. Likewise, a character's existing skills can make a less obvious capstone far more effective than its reputation suggests.</p>
+</section>
+
+<section>
+<h2>What Steps Lead to a Clean Path?</h2>
+<p><strong>Efficient pathing means choosing the destination first, then selecting only the nodes that support it.</strong></p>
+<ol>
+<li>Identify the character's main role and the capstone that best serves it.</li>
+<li>Trace the shortest route to that capstone and note which utility nodes the route forces.</li>
+<li>Decide whether those forced nodes provide enough value to justify the path.</li>
+<li>Test the resulting build in real content and adjust based on what actually happens.</li>
+</ol>
+<p>This order prevents a common failure: building a comfortable collection of utility first and discovering afterward that there are not enough points left for the ability that would have made the character effective.</p>
+</section>
+
+<section>
+<h2>Which Parameters Matter Beyond the Capstone?</h2>
+<p><strong>Synergy, cooldown timing, resource management, and situational fit determine whether a capstone reaches its potential.</strong></p>
+<p>A capstone that depends on frequent use benefits from talents that reduce cooldowns. One that consumes a resource needs enough generation to keep running. Talents that appear weak in isolation can become strong when they support the capstone's rhythm.</p>
+<p>Situational effectiveness matters too. Some abilities shine in specific encounters or against particular enemy patterns, while others are broadly useful. A build that looks strong on paper can feel clumsy in content where its key moment never arrives. Adapting to the actual challenge is part of pathing, not a separate concern.</p>
+</section>
+
+<section>
+<h2>What Pitfalls Should Be Avoided?</h2>
+<p><strong>Overcommitting to utility, neglecting the capstone, and refusing to adapt are the most damaging pathing mistakes.</strong></p>
+<p>Utility talents are easy to justify one at a time. Together, they can consume the points needed for the ability that would have defined the build. The opposite error is treating a capstone as mandatory regardless of the path required to reach it; a long detour through irrelevant nodes can cost more than the capstone provides.</p>
+<p>Rigidity is the third trap. A build that worked in one patch or one type of content may not work in the next. Reassessing talents after a disappointing run is not a sign of instability; it is part of using the system well.</p>
+</section>
+
+<section>
+<h2>How Should Pathing Adapt Over Time?</h2>
+<p><strong>Patch changes, community discoveries, and new content can shift which capstones are worth prioritizing.</strong></p>
+<p>Keeping up with patch notes and experienced players helps, but the most useful habit is testing. A talent choice that looks correct in a guide may behave differently in a player's hands. Trying a build in the content that matters, then comparing results, produces better decisions than copying a list without context.</p>
+<p>Long-term pathing is therefore a cycle: choose a destination, build toward it, observe the result, and revise. The capstone remains the anchor, while the route around it stays open to adjustment as the game and the player's goals change.</p>
+</section>
+
+</article>

@@ -1,0 +1,81 @@
+<article>
+
+  <header>
+    <h1>A Practical Guide to Bullion, Catalysts, and Upgrade Tracks in Midnight Season Two</h1>
+    <p>Midnight Season 2 in World of Warcraft introduced a rebuilt path for gear upgrades, and it changed how players think about progression. Alongside new materials and revised tracks, Bullion and Catalysts continue to shape the decisions behind each improvement. This guide explains how the pieces fit together and how to spend resources without wasting the opportunities provided by the season.</p>
+  </header>
+
+  <section>
+    <h2>How the Four Upgrade Tracks Organize Progression</h2>
+    <p><strong>Veteran, Champion, Hero, and Myth form a ladder that sets each item's upgrade limit.</strong></p>
+    <p>Each track defines a ceiling and a set of requirements, so the value of an item depends partly on where it came from. Gear from lower-tier content can be upgraded only to a certain point, while gear from the hardest content can reach the Mythic end of the system. The structure encourages players to invest in equipment over time instead of replacing every piece immediately. It also makes the source of an item important: a drop with a promising track may deserve more attention than a superficially stronger piece with a lower ceiling.</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Upgrade Track</th>
+          <th>Item Level Ceiling</th>
+          <th>Material Needed</th>
+          <th>Where It Drops</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Veteran</td>
+          <td>Item Level 344</td>
+          <td>Nebulous Voidcore</td>
+          <td>Normal Raids</td>
+        </tr>
+        <tr>
+          <td>Champion</td>
+          <td>Item Level 360</td>
+          <td>Ascendant Venomstones</td>
+          <td>Heroic Raids</td>
+        </tr>
+        <tr>
+          <td>Hero</td>
+          <td>Item Level 375</td>
+          <td>Various Crests</td>
+          <td>Mythic Raids</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Where Bullion and the New Materials Fit</h2>
+    <p><strong>Bullion is the currency that lets players purchase the materials required for upgrades.</strong></p>
+    <p>Nebulous Voidcore and Ascendant Venomstones are central to the revised process, and both are tied to the track system described above. Because Bullion is limited, every purchase is a statement about which piece of gear matters most. Players should collect it through daily and weekly activities and then spend it with a plan rather than on the first upgrade that becomes available. Keeping a simple record of materials and remaining Bullion prevents the unpleasant discovery that a planned upgrade cannot be afforded during a crucial week.</p>
+    <p>The most common mistake is treating the currency as though it must be spent immediately. A reserve has value when a better item appears or when a track becomes reachable after a fortunate drop. The habits below keep that flexibility intact without turning caution into paralysis.</p>
+    <ul>
+      <li>Reserve Bullion for the piece that will stay equipped longest.</li>
+      <li>Buy materials only after the target item and its track are decided.</li>
+      <li>Keep a buffer for a sudden drop that changes the priority.</li>
+      <li>Review the spending plan weekly instead of at the moment a vendor refreshes.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>What Catalysts Do for Tier Gear</h2>
+    <p><strong>Catalysts transform suitable standard gear into tier set items, adding bonuses that ordinary upgrades cannot provide.</strong></p>
+    <p>A Catalyst is therefore more than another material sink; it changes what a piece of equipment is. Players should identify which slots will benefit most before using one, and they should consider whether a complete set is within reach. Waiting until the full picture is clear can produce stronger results than applying Catalysts piecemeal. Weapons and trinkets are often mentioned as high-impact targets, but the right choice still depends on the character's needs and the bonuses involved. Patience also protects the investment: a Catalyst spent on a slot that is about to be replaced is a resource that cannot be redirected.</p>
+  </section>
+
+  <section>
+    <h2>Gathering Materials Through Consistent Play</h2>
+    <p><strong>Raids, Mythic+ dungeons, daily quests, and world events all contribute to a steady supply of upgrade resources.</strong></p>
+    <p>A varied routine is more reliable than chasing a single source. Group content provides higher-tier gear that can be upgraded further, while repeatable activities fill the gaps in Bullion and materials. Joining groups or a guild that regularly tackles demanding content improves both the quantity and the quality of what becomes available. Setting aside time for these activities is less exciting than a lucky drop, but it is what makes repeated upgrades possible.</p>
+  </section>
+
+  <section>
+    <h2>Choosing Which Pieces Deserve an Upgrade</h2>
+    <p><strong>Upgrade decisions should follow performance needs, not item level alone.</strong></p>
+    <p>Review the current setup and identify the slots where an improvement will actually change output or survival. Then compare those needs with the track and materials required for each candidate. An item that sits on a strong track may be worth more attention than one that is temporarily higher but cannot grow. Keeping an eye on the whole inventory also reveals when a small upgrade now would block a larger one later.</p>
+  </section>
+
+  <section>
+    <h2>Carrying Gear Forward Without Creating Dead Ends</h2>
+    <p><strong>Previous-season gear can still be upgraded under the new system when it remains eligible.</strong></p>
+    <p>That flexibility is useful, but it should not become an excuse to upgrade everything. Some pieces will soon be replaced, and materials spent on them cannot be recovered. The safer approach is to concentrate on gear that supports current content and has room to grow, while treating marginal items as temporary. Players who check eligibility and plan around upcoming needs avoid the twin traps of hoarding everything and spending everything too early.</p>
+  </section>
+
+</article>

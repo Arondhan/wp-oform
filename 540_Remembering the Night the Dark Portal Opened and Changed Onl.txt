@@ -1,0 +1,145 @@
+<article>
+
+  <header>
+
+    <h1>Remembering the Night the Dark Portal Opened and Changed Online Launches</h1>
+
+    <p>On January 16, 2007, World of Warcraft players lined up outside shops and crowded onto servers for the arrival of The Burning Crusade. The expansion opened the road to Outland through the Dark Portal, and the evening became a reference point for how an online game could turn a release into a shared public event. This retrospective covers the mood of the night, the preparation that preceded it, the features that defined the expansion, the problems that surfaced, and the lessons the industry carried forward.</p>
+
+  </header>
+
+  <section>
+
+    <h2>What Made the Midnight Release Feel Like a Festival?</h2>
+
+    <p><strong>The launch felt less like a product going on sale and more like a community gathering, with players celebrating a story they had followed for years.</strong></p>
+
+    <p>Blizzard had spent the months before release building anticipation with trailers and teasers that showed new environments and lore. That campaign gave the expansion a sense of scale before anyone logged in. At retail locations, the company arranged events with giveaways, contests, and appearances by developers. Players arrived in numbers, and some dressed as their favorite characters. The result was a camaraderie that is unusual for a software release.</p>
+
+    <p>The crowd outside the store and the crowd inside the game reinforced each other. People were not only buying access to new content; they were marking a chapter in a world they already knew. For many attendees, the queue itself became part of the memory, a place to trade stories with strangers who shared the same investment.</p>
+
+  </section>
+
+  <section>
+
+    <h2>How Did Players Get Ready Before the Portal Opened?</h2>
+
+    <p><strong>Preparation became a project in itself, with players leveling, stockpiling, and planning so they could step into Outland without delay.</strong></p>
+
+    <p>In the weeks before launch, many players pushed toward the maximum level of 60, since that was the prerequisite for the new content. Others saved gold and crafted items they expected to need. Forums and social channels filled with advice about builds, supplies, and routes. Guilds compared notes and made arrangements for the first nights. The work was practical, but it also fed the anticipation: every completed task made the expansion feel closer.</p>
+
+    <ul>
+
+      <li>Reach level 60 so the new content is available immediately.</li>
+
+      <li>Stock potions and crafting materials instead of relying on a last-minute market.</li>
+
+      <li>Join a guild or community group to coordinate raids and quests.</li>
+
+      <li>Study new class abilities and talent trees before committing to a build.</li>
+
+    </ul>
+
+  </section>
+
+  <section>
+
+    <h2>Which Features Changed the Game Most?</h2>
+
+    <p><strong>The expansion added two playable races, raised the level cap, and opened Outland, together reshaping how characters were built and played.</strong></p>
+
+    <p>Blood Elves joined the Horde and Draenei joined the Alliance, each bringing its own abilities and lore. The level cap moved from 60 to 70, which unlocked new talents and skills and gave players a reason to rethink familiar characters. Outland supplied new zones, quests, and dungeons, expanding the world rather than merely extending it. The table below summarizes the headline changes and the response they drew.</p>
+
+    <table>
+
+      <thead>
+
+        <tr>
+
+          <th>Feature</th>
+
+          <th>Description</th>
+
+          <th>Impact on Play</th>
+
+          <th>Player Response</th>
+
+        </tr>
+
+      </thead>
+
+      <tbody>
+
+        <tr>
+
+          <td>New races</td>
+
+          <td>Blood Elves and Draenei</td>
+
+          <td>More variety in play styles</td>
+
+          <td>Strongly positive; deeper faction lore</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Level cap increase</td>
+
+          <td>From 60 to 70</td>
+
+          <td>Fresh talents and abilities</td>
+
+          <td>Enthusiastic; encouraged new builds</td>
+
+        </tr>
+
+        <tr>
+
+          <td>New zones</td>
+
+          <td>Outland</td>
+
+          <td>More quests and dungeons</td>
+
+          <td>Overwhelmingly positive; rich in lore</td>
+
+        </tr>
+
+      </tbody>
+
+    </table>
+
+  </section>
+
+  <section>
+
+    <h2>What Went Wrong on the First Night?</h2>
+
+    <p><strong>Server instability, heavy traffic, and crowded quest objectives turned the opening into a test of patience as well as enthusiasm.</strong></p>
+
+    <p>The volume of players logging in at once produced crashes and long queues. Quests that everyone needed became bottlenecks because too many people were trying to complete the same steps. The experience was chaotic, but it was also shared: players formed impromptu groups, swapped advice, and found ways around the crowds. Those workarounds became part of the launch story, and the frustration faded faster than the memory of the night itself.</p>
+
+  </section>
+
+  <section>
+
+    <h2>What Did the Launch Change for Later Releases?</h2>
+
+    <p><strong>The expansion demonstrated that community engagement and a visible build-up could matter as much as the content itself.</strong></p>
+
+    <p>Developers took note of how marketing, community events, and player investment combined. Launch events across the industry became more interactive, and companies began to treat a release as a relationship with players rather than a single transaction. The problems also left a technical lesson. Server capacity and stability moved higher on the list of priorities, and later rollouts were planned with traffic in mind.</p>
+
+  </section>
+
+  <section>
+
+    <h2>Which Practices Still Make Sense Today?</h2>
+
+    <p><strong>A strong launch depends on planning, honest communication, and infrastructure that can survive the first wave of players.</strong></p>
+
+    <p>Building a community before release, listening to feedback, and testing servers under load remain sensible foundations. Clear information about launch times, server status, and troubleshooting reduces frustration when something goes wrong. Staggered or phased access can spread the pressure and keep the experience usable. None of these ideas guarantees a memorable night, but together they make one more likely.</p>
+
+  </section>
+
+</article>

@@ -1,0 +1,153 @@
+<article>
+
+  <header>
+
+    <h1>The Forgotten Craft of Rogue Thrown Weapons and Poison Making</h1>
+
+    <p>The material side of rogue combat rarely receives as much attention as stealth or burst damage, yet thrown weapons and poisons depend on careful sourcing and preparation. This guide examines the historical and theoretical logistics behind those tools: the materials involved, the ways they were used, the steps required to make them, and the conditions that determined whether they worked. The aim is a practical overview of a craft that shaped the rogue archetype.</p>
+
+  </header>
+
+  <section>
+
+    <h2>Which Materials Did the Craft Require?</h2>
+
+    <p><strong>Metal, wood, and toxic substances formed the foundation of most thrown weapons and poisons.</strong></p>
+
+    <p>Blades needed a durable metal, while handles and shafts could be made from wood or composite materials. Poisons came from plants, fungi, or synthesized chemicals, each requiring its own method of preparation. A rogue who understood where these materials came from had an advantage over one who simply bought finished goods. Sourcing was therefore the first skill, and it remained relevant at every stage of the work.</p>
+
+    <ul>
+
+      <li>Locate reliable sources of metal and wood for weapon components.</li>
+
+      <li>Study toxic plants and fungi before attempting poison work.</li>
+
+      <li>Learn the historical methods used to shape and assemble weapons.</li>
+
+      <li>Test different material combinations to find what performs best.</li>
+
+    </ul>
+
+  </section>
+
+  <section>
+
+    <h2>What Do Historical Examples Show?</h2>
+
+    <p><strong>Different cultures developed distinct answers to the same problem of delivering a concealed attack at range.</strong></p>
+
+    <p>The table below collects representative examples, their origins, the materials associated with them, and their primary uses. The variety is instructive: a weapon's design follows from its purpose, the resources available, and the environment in which it is carried.</p>
+
+    <table>
+
+      <thead>
+
+        <tr>
+
+          <th>Weapon Type</th>
+
+          <th>Origin</th>
+
+          <th>Materials</th>
+
+          <th>Primary Use</th>
+
+        </tr>
+
+      </thead>
+
+      <tbody>
+
+        <tr>
+
+          <td>Throwing dagger</td>
+
+          <td>Europe</td>
+
+          <td>Steel, wood</td>
+
+          <td>Close combat</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Shuriken</td>
+
+          <td>Japan</td>
+
+          <td>Metal, bamboo</td>
+
+          <td>Distraction, stealth</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Poison dart</td>
+
+          <td>South America</td>
+
+          <td>Wood, plant toxins</td>
+
+          <td>Incapacitation</td>
+
+        </tr>
+
+      </tbody>
+
+    </table>
+
+  </section>
+
+  <section>
+
+    <h2>How Were These Tools Used in Practice?</h2>
+
+    <p><strong>Rogues relied on range, surprise, and timing to turn a small weapon into a tactical advantage.</strong></p>
+
+    <p>A thrown weapon can open a fight before an opponent closes the distance, giving the rogue control over the first exchange. Poison adds a slower form of pressure, weakening a target over time and creating room to escape or press the attack. A common pattern was to create a distraction with a poisoned blade and slip away while attention was elsewhere. Smoke or poor visibility could hide the retreat, and knowledge of the terrain determined which route remained open.</p>
+
+  </section>
+
+  <section>
+
+    <h2>What Steps Turn Raw Materials Into Finished Tools?</h2>
+
+    <p><strong>Crafting moves from gathering to design, then to assembly and careful preparation of the poison.</strong></p>
+
+    <p>Once the metal, wood, and toxic ingredients are on hand, the weapon has to be designed with weight, balance, and aerodynamics in mind. Shaping the metal and attaching it securely to the handle produces a tool that can be thrown accurately and concealed easily. Poison work is a separate discipline: extracting and concentrating toxic compounds requires knowledge of botany and chemistry, along with the ability to identify the right specimens. Storage matters too, since potency can fade if a poison is exposed to the wrong conditions. Small vials and hidden compartments kept the material accessible during a mission.</p>
+
+  </section>
+
+  <section>
+
+    <h2>How Did the Environment Shape the Outcome?</h2>
+
+    <p><strong>Terrain, visibility, and weather could help a rogue as much as any weapon.</strong></p>
+
+    <p>Narrow alleys and rooftops offered ambush points in a city, while dense forest provided cover for a quiet approach. Low light made it easier to remain unseen, and rain or fog could either obscure a throw or hide the movement that preceded it. The behavior of the target mattered as well: a guard in a well-lit courtyard was likely to be more watchful than one patrolling a shadowed alley. Rogues who read these conditions well could use a diversion to exploit the weakest point in a watch.</p>
+
+  </section>
+
+  <section>
+
+    <h2>Which Measures Reveal Whether the Craft Works?</h2>
+
+    <p><strong>Accuracy, effective range, and poison potency are the practical tests of any rogue's toolkit.</strong></p>
+
+    <p>A perfectly made dagger is useless if it misses, so tracking hit rates and adjusting technique is essential. Range deserves the same attention; practice at different distances shows where a weapon remains reliable. Poison potency is harder to judge and usually requires trial and error with different concentrations and delivery methods. Regular evaluation of all three keeps a rogue from relying on assumptions that no longer hold.</p>
+
+  </section>
+
+  <section>
+
+    <h2>How Can Someone Build Long-Term Mastery?</h2>
+
+    <p><strong>Regular practice, study of historical tactics, and deliberate experimentation turn a collection of techniques into a reliable skill set.</strong></p>
+
+    <p>Setting aside time for training sharpens accuracy and reveals weaknesses that only appear under repetition. Historical accounts of rogue tactics offer ideas that can be adapted rather than copied, and communities focused on reenactment or craft can provide practical feedback. Experimentation with materials and methods may produce a configuration that suits a particular situation better than a standard design. The habit of continuous improvement matters more than any single trick.</p>
+
+  </section>
+
+</article>

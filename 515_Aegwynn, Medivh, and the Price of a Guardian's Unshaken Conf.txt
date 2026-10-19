@@ -1,0 +1,80 @@
+<article>
+  <header>
+    <h1>Aegwynn, Medivh, and the Price of a Guardian's Unshaken Confidence</h1>
+    <p>Aegwynn's story is one of the Warcraft universe's clearest examples of power turning against the person who wields it. As the last Guardian of Tirisfal and the mother of Medivh, she shaped events that reached far beyond her own lifetime. Her tale mixes genuine heroism with pride, secrecy, and decisions that left Azeroth exposed. Looking closely at her choices explains how the Guardian's legacy became entangled with the Burning Legion and the opening of the Dark Portal.</p>
+  </header>
+
+  <section>
+    <h2>The last Guardian and the weight of her office</h2>
+    <p><strong>Aegwynn was chosen as the Guardian of Tirisfal at a young age, taking on immense power and responsibility.</strong></p>
+    <p>The role made her Azeroth's protector against dark forces, particularly the Burning Legion. Her strength came from a unique connection to the Well of Eternity and the magical energies of the world, and as a Guardian she served as a vessel for the combined strength of those who came before. That inheritance allowed extraordinary feats, but it also tied her to the very corruption she was meant to oppose. The office demanded judgment as much as power, and that is where her story becomes complicated.</p>
+    <p>The office was both an honor and a burden. A Guardian is expected to act alone, to make decisions that others cannot evaluate, and to carry the consequences without much outside counsel. Aegwynn accepted that isolation as part of the role, and the habit of self-reliance would later make it harder for her to recognize when she needed help.</p>
+  </section>
+
+  <section>
+    <h2>The confrontation that changed her family line</h2>
+    <p><strong>Aegwynn's early victories, especially against Sargeras, solidified her reputation but also fed her overconfidence.</strong></p>
+    <p>She chose to engage the demon lord directly, a decision that demonstrated her strength and her arrogance at the same time. The confrontation resulted in her becoming pregnant with Medivh. That outcome haunted her and eventually the wider world. Rather than a simple triumph, the battle became the origin of a legacy she could not fully control. Her story is therefore a tapestry of heroism and tragic flaw, showing what can happen when immense power is exercised without enough caution.</p>
+    <p>That legacy did not announce itself immediately. The consequences of the confrontation unfolded gradually, shaped by later choices and by the secrecy that surrounded them. By the time the full picture emerged, the damage had already rooted itself in the next generation.</p>
+  </section>
+
+  <section>
+    <h2>Secrecy, corruption, and the Dark Portal</h2>
+    <p><strong>Aegwynn's decision to conceal Medivh's true lineage and the nature of his powers contributed directly to his corruption.</strong></p>
+    <p>Without transparency, Medivh could not understand the full extent of his abilities or the dangers attached to them. As he grew, signs of instability appeared, and Aegwynn attributed them to the burden of being a Guardian. In reality, Sargeras was manipulating him from within, exploiting the gap she had left in his preparation. The struggle between Guardian duty and dark influence festered until Medivh betrayed his role. That betrayal opened the Dark Portal and allowed the orcs to invade Azeroth.</p>
+  </section>
+
+  <section>
+    <h2>How one decision led to the next</h2>
+    <p><strong>Each of Aegwynn's major decisions produced consequences that extended well beyond her own life.</strong></p>
+    <table>
+      <thead>
+        <tr>
+          <th>Decision</th>
+          <th>Immediate result</th>
+          <th>Effect on Azeroth</th>
+          <th>Long-term shadow</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Confrontation with Sargeras</td>
+          <td>Medivh is born</td>
+          <td>A powerful Guardian is created</td>
+          <td>The potential for corruption</td>
+        </tr>
+        <tr>
+          <td>Secrecy about Medivh's powers</td>
+          <td>Medivh is corrupted</td>
+          <td>The Dark Portal opens</td>
+          <td>Orcs invade</td>
+        </tr>
+        <tr>
+          <td>Failure to mentor Medivh</td>
+          <td>Chaos spreads</td>
+          <td>Lives and lands are lost</td>
+          <td>Conflict with the Burning Legion continues</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>What the story says about humility and mentorship</h2>
+    <p><strong>Aegwynn's narrative teaches lessons about humility, responsible guidance, and accountability.</strong></p>
+    <p>Her confidence led her to believe she could handle Sargeras alone, and that belief produced catastrophic results. Even the most powerful individuals have limits and should seek help when the stakes are high. Her failure to mentor Medivh effectively shows why guidance in a position of power carries real weight. Accountability is the other recurring theme: her choices affected not only her family but all of Azeroth. Leaders should consider the wider impact of their decisions and accept responsibility for the outcome.</p>
+    <ul>
+      <li>Recognize personal limits before they become dangerous.</li>
+      <li>Seek help from allies instead of carrying every burden alone.</li>
+      <li>Address signs of conflict in others early and openly.</li>
+      <li>Treat mentorship as a duty rather than an afterthought.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Carrying the lessons into play</h2>
+    <p><strong>Players can apply Aegwynn's lessons by practicing humility, communication, and responsibility in group content.</strong></p>
+    <p>Forming alliances and sharing knowledge makes a group stronger than individual ambition does. Mentoring newer players helps them navigate challenges and strengthens the group as a whole. Accountability means considering how a decision affects everyone involved, not just the person making it. A culture of open communication prevents small misunderstandings from growing into serious problems. These habits honor Aegwynn's legacy while avoiding the pride that defined her downfall.</p>
+    <p>The strongest application is preventive. Groups that discuss expectations early, share information freely, and correct problems while they are small avoid the kind of slow accumulation that turned a single Guardian's mistake into a world-spanning conflict. Humility in that setting is not weakness; it is a practical safeguard.</p>
+  </section>
+</article>

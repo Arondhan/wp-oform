@@ -1,0 +1,84 @@
+<article>
+  <header>
+    <h1>The 30-Minute World Quest Loop That Pays Valorstones, Artisan Acuity, and Kej Reputation</h1>
+    <p>A daily route only works if it is short enough to repeat. That is the whole idea behind a 30-minute world quest loop: hit the quests that pay Valorstones, Artisan Acuity, and Kej reputation, then get out before the route turns into a second job. This guide walks through the sources, the routing logic, and the habits that keep the loop fast when the map is crowded.</p>
+  </header>
+
+  <section>
+    <h2>Where do Valorstones actually come from?</h2>
+    <p><strong>Valorstones flow fastest from heroic dungeons, weekly quests, and Mythic+ runs rather than from a single world quest type.</strong></p>
+    <p>World quests are the backbone of the loop, but they are not the only tap. Players consistently report strong returns from heroic dungeon runs, especially when they overlap with weekly quests that reward Odd Globs of Wax. Those globs can occasionally produce more Valorstones than a straightforward farm, which makes them worth opening rather than banking.</p>
+    <p>Mythic+ remains the fastest way to cap a stubborn Valorstone total, but it is not a 30-minute activity for most players. Treat dungeons as the burst option and world quests as the steady drip that keeps the currency moving on days when you cannot commit to a key.</p>
+  </section>
+
+  <section>
+    <h2>How do you plan a route that does not waste travel time?</h2>
+    <p><strong>Cluster quests by geography, use flight paths deliberately, and let reputation objectives ride along with the currency objectives.</strong></p>
+    <p>The route matters more than the individual quest. A perfect quest in the wrong corner of the map costs more time than a mediocre quest next door. Start with the map, not the reward list, and build the order around travel:</p>
+    <ul>
+      <li>Open the map and mark every active world quest that pays Valorstones or Artisan Acuity.</li>
+      <li>Group the markers into two or three geographic clusters instead of chasing them in the order they appear.</li>
+      <li>Use flight paths to move between clusters, not between individual quests.</li>
+      <li>Fold Kej reputation quests into the same clusters so one trip serves two goals.</li>
+    </ul>
+    <p>A route built this way usually finishes in well under half an hour, leaving room for one dungeon queue if the Valorstone total is still low.</p>
+  </section>
+
+  <section class="data-table">
+    <h2>Which quests are worth prioritizing for Artisan Acuity?</h2>
+    <p><strong>Prioritize quests that explicitly reward Artisan Acuity, because the resource is central to crafting and upgrades.</strong></p>
+    <p>Artisan Acuity replaced Artisan's Metal and now sits at the center of the crafting economy, so any quest that pays it deserves a spot in the loop. The table below lists the kinds of objectives worth planning around, along with rough time costs.</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Quest type</th>
+          <th>Location</th>
+          <th>Reward focus</th>
+          <th>Estimated time</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Crafting Mastery</td>
+          <td>Valley of Eternal Blossoms</td>
+          <td>Artisan Acuity</td>
+          <td>About 5 minutes</td>
+        </tr>
+        <tr>
+          <td>Gathering Supplies</td>
+          <td>Thaldraszus</td>
+          <td>Artisan Acuity</td>
+          <td>About 7 minutes</td>
+        </tr>
+        <tr>
+          <td>Heroic Challenges</td>
+          <td>Various</td>
+          <td>Artisan Acuity</td>
+          <td>About 10 minutes</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>Watch for bonus objectives attached to these quests. They often add a second reward without adding a second trip, which is exactly the kind of efficiency a short loop needs.</p>
+  </section>
+
+  <section>
+    <h2>How do you stack Kej reputation inside the same loop?</h2>
+    <p><strong>Complete Kej dailies alongside your currency objectives and watch for events that temporarily increase reputation gains.</strong></p>
+    <p>Kej reputation unlocks rewards and upgrades, and the daily quests that grant it are usually close enough to the currency quests to justify the detour. The key is to check for active events before you leave the hub. A reputation buff turns an ordinary daily into a much better use of the same five minutes.</p>
+    <p>Group activities can also add reputation on top of the quest reward, so if a world event is running, route through it rather than around it. The loop should bend to the map, not the other way around.</p>
+  </section>
+
+  <section>
+    <h2>What tools and habits keep the loop under half an hour?</h2>
+    <p><strong>Use addons to track objectives and timers, pre-plan the order, and skip anything that demands a long detour.</strong></p>
+    <p>Addons that track quest objectives and buff timers remove the small hesitations that add up over a route. Planning the order before you mount saves more time than rushing between quests. Group nearby objectives, avoid quests with long travel legs, and re-check the map mid-loop for anything that spawned while you were moving.</p>
+    <p>It also helps to set a hard stop. If the loop is not finished at the 30-minute mark, leave the remainder for tomorrow. A daily route that burns an hour is no longer a daily route, and the rewards rarely justify the extra time.</p>
+  </section>
+
+  <section>
+    <h2>What do you do when the route stalls?</h2>
+    <p><strong>Reassess the route, group up for contested objectives, and use community resources when a quest refuses to cooperate.</strong></p>
+    <p>Stalls usually come from competition for quest mobs or an objective that is harder than it looked. If a single quest is holding up the loop, drop it and come back later. If several players are fighting for the same spawns, a quick group can finish the objective faster than solo tagging.</p>
+    <p>When a mechanic is unclear, check a guide rather than guessing. The time spent reading is almost always shorter than the time spent failing the same objective twice.</p>
+  </section>
+</article>

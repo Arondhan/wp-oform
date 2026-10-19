@@ -1,0 +1,97 @@
+<article>
+  <header>
+    <h1>Mythic Helya's Three Add Waves and the Coordination That Separated Top Raids</h1>
+    <p>Mythic Helya in Legion is remembered less for a single impossible mechanic than for the discipline demanded by her add phases. Three waves arrive with different dangers, and each one punishes a raid that reacts slowly or assigns roles loosely. The encounter turns add management into a test of planning, communication, and spatial awareness.</p>
+  </header>
+
+  <section>
+    <h2>What Arrives in Each of the Three Waves?</h2>
+    <p><strong>Helya sends three distinct groups of adds, and each group brings a different pressure to the fight.</strong></p>
+    <p>The first wave consists of Corrupted Tides, which must be controlled and killed quickly because their threat compounds if ignored. The second introduces Dread Tides, which hit hard enough to demand dedicated tanking and healing. The third brings Vilefiends, whose abilities create chaos if the raid is not positioned for them.</p>
+    <p>Spawn timers matter as much as names. Cooldowns should be planned around each wave's arrival rather than spent reactively. Assigning specific players to specific tasks before the pull prevents the confusion that turns a manageable wave into a wipe.</p>
+    <ul>
+      <li>Track each wave's spawn timing before the encounter begins.</li>
+      <li>Assign add tanks, damage dealers, and crowd control roles in advance.</li>
+      <li>Use crowd control to blunt the danger of the Dread Tides.</li>
+      <li>Keep communication clear so all adds are focused down promptly.</li>
+    </ul>
+  </section>
+
+  <section class="data-table">
+    <h2>How Do the Three Add Types Compare?</h2>
+    <p><strong>The health pools and damage outputs rise across the waves, so each group requires a different resource commitment.</strong></p>
+    <p>The table records the health pool, damage output, and signature ability associated with each add type. These figures help raid leaders decide where to place defensive cooldowns and which wave needs the most concentrated damage.</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Add Type</th>
+          <th>Health Pool</th>
+          <th>Damage Output</th>
+          <th>Special Ability</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corrupted Tides</td>
+          <td>1,200,000</td>
+          <td>5000 per second</td>
+          <td>Corrupted Strike</td>
+        </tr>
+        <tr>
+          <td>Dread Tides</td>
+          <td>1,500,000</td>
+          <td>8000 per second</td>
+          <td>Dreadful Roar</td>
+        </tr>
+        <tr>
+          <td>Vilefiends</td>
+          <td>1,800,000</td>
+          <td>10000 per second</td>
+          <td>Vile Eruption</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>The progression is deliberate: a control problem becomes a healing and tanking problem, then a positioning problem. A raid that spends everything on the first wave struggles later.</p>
+  </section>
+
+  <section>
+    <h2>What Kill Order Keeps the Phase Stable?</h2>
+    <p><strong>Corrupted Tides should be handled first, followed by Dread Tides, with Vilefiends managed through careful positioning.</strong></p>
+    <p>The reasoning follows the pressure each group creates. Corrupted Tides accumulate quickly and overwhelm the raid if ignored, so they reward immediate attention. Dread Tides bring heavy damage and require crowd control and healing cooldowns to survive the transition. Vilefiends disrupt the raid's formation if players are not already positioned sensibly.</p>
+    <ol>
+      <li>Focus the Corrupted Tides before their numbers become unmanageable.</li>
+      <li>Bring crowd control and healing cooldowns to bear on the Dread Tides.</li>
+      <li>Handle the Vilefiends with positioning already prepared for their abilities.</li>
+      <li>Keep assigned roles fixed so damage and control do not overlap wastefully.</li>
+    </ol>
+    <p>A clear kill order is useful only if everyone follows it. Raid leaders should repeat the priority before the pull and call transitions as each wave changes. Split damage drags out the phase and pushes cooldown timings out of alignment.</p>
+  </section>
+
+  <section>
+    <h2>How Do the Adds Interact With Helya's Mechanics?</h2>
+    <p><strong>The adds are dangerous partly because their abilities overlap with Helya's own tidal attacks and the encounter's environmental hazards.</strong></p>
+    <p>Helya's own abilities can empower the Corrupted Tides, raising their damage if the raid does not deal with them quickly. Dread Tides apply debuffs that require immediate attention; failing to cleanse them can cause severe damage. The raid cannot treat adds as separate from the boss, so positioning and cooldowns must account for both.</p>
+    <p>Add health scales with raid size, which makes coordination more important rather than less. A larger group brings more damage but also more chances for confusion. Players caught in Helya's mechanics while killing adds lose time and healing resources. Using the environment well creates safer space for healers and reduces the chance that one mistake cascades.</p>
+  </section>
+
+  <section>
+    <h2>Why Is Spatial Positioning So Important?</h2>
+    <p><strong>Positioning determines whether the raid can kill adds quickly while staying out of Helya's most dangerous effects.</strong></p>
+    <p>Melee players benefit from staying close to adds so they can apply damage without chasing targets. Ranged players need enough distance to avoid area effects while still contributing. Healers should stand where healing reaches the group without exposing them to danger. These requirements conflict, so the raid needs a plan rather than an improvised spread.</p>
+    <p>Environmental features such as pillars provide temporary safe zones and places to regroup. They are not a substitute for movement discipline, but they give options when a wave and a boss mechanic arrive together. The best groups rehearse collapse points, spreads, and movement directions for debuffs.</p>
+  </section>
+
+  <section>
+    <h2>Which Metrics Should a Raid Track?</h2>
+    <p><strong>Damage per second, healing per second, add kill times, cooldown timing, and crowd control effectiveness all reveal where the raid is losing control.</strong></p>
+    <p>Add kill times show whether the raid is focusing properly or spreading damage too thin. Healing per second reveals whether Dread Tides are handled with the right cooldowns. Damage per second alone is not enough, since a high number can hide wasted effort on the wrong target.</p>
+    <p>Logs and meters make these patterns visible after the attempt. Reviewing them as a group turns vague impressions into specific corrections. If cooldowns arrive late, the plan needs adjusting. If crowd control breaks early, assignments or timing need work. Measurement should find the point where coordination failed, not assign blame.</p>
+  </section>
+
+  <section>
+    <h2>What Preparation Gives a Raid the Best Chance?</h2>
+    <p><strong>Clear briefings, reliable voice communication, and practiced movement give a raid a much better chance than individual skill alone.</strong></p>
+    <p>Before the pull, every player should understand the wave order, their assignment, and the raid leader's signals. A short briefing prevents confusion when people assume someone else is handling a task. Voice communication supports adjustment when a wave arrives with an unexpected complication.</p>
+    <p>Practice matters as well. Repeated movement patterns become reliable, and players who know where to go free the raid leader to focus on the larger fight.</p>
+  </section>
+</article>

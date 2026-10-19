@@ -1,0 +1,82 @@
+<article>
+
+  <header>
+    <h1>Reaching Tier Eleven in Delves by Reading Brann Experience and Coffer Trends</h1>
+    <p>Delves reward players who pay attention to both pace and payoff. The climb toward Tier 11 depends on understanding how Brann's experience curve behaves and how Bountiful Coffers fit into a run's value. This article breaks down the metrics worth tracking, the habits that improve efficiency, and the problems that most often slow a group down.</p>
+  </header>
+
+  <section>
+    <h2>The Metrics That Matter During a Delve Push</h2>
+    <p><strong>Experience earned, time spent, coffer frequency, and player output together describe the health of a Delve routine.</strong></p>
+    <p>No single number tells the whole story. A fast run with a poor drop rate may be less valuable than a slower run with a reliable coffer, while a high experience total can hide inefficient wipes. The table below groups the core measurements and shows how they tend to change as difficulty rises. Players can use it as a checklist rather than a promise of fixed results.</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Experience per Run</th>
+          <th>Typical Run Time</th>
+          <th>Coffer Chance</th>
+          <th>Performance Measures</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Varies by tier</td>
+          <td>10-15 minutes</td>
+          <td>15-25%</td>
+          <td>Damage and healing output</td>
+        </tr>
+        <tr>
+          <td>Higher in Tier 11</td>
+          <td>Improves with experience</td>
+          <td>Increases with tier</td>
+          <td>Depends on class and build</td>
+        </tr>
+        <tr>
+          <td>Scales with difficulty</td>
+          <td>Improves with practice</td>
+          <td>Changes by encounter</td>
+          <td>Group coordination and plan</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>Reading these figures together prevents one fast run or one lucky drop from distorting the whole plan. The useful signal is the pattern across several attempts, not a single result.</p>
+  </section>
+
+  <section>
+    <h2>How the Brann Experience Curve Rewards Progress</h2>
+    <p><strong>The curve is built to reward deeper Delve runs while gradually reducing the gain from each additional step.</strong></p>
+    <p>Early tiers feel generous because progress arrives quickly. As the difficulty climbs, the experience per run increases, but the rate of advancement slows, so more runs are needed to reach the next stage. Tier 11 sits at the far end of that pattern, offering a larger reward that is tempered by the effort required to complete it consistently. The practical response is to treat efficiency as a skill: improve damage and survivability, coordinate objectives, and record how long each run actually takes. Small reductions in wasted time compound over a long push.</p>
+  </section>
+
+  <section>
+    <h2>Improving the Odds of a Bountiful Coffer</h2>
+    <p><strong>Coffers are not a guaranteed reward, so the best strategy is to raise the number of quality chances rather than chase a single outcome.</strong></p>
+    <p>Drop chances respond to difficulty and to how cleanly a group completes the content. Encounters with better known rates deserve priority, and a composition that handles damage and survival without delay keeps those attempts frequent. Buffs and consumables can support performance, though they should be planned rather than used at random. Tracking results over several runs gives a clearer picture than remembering the one lucky drop.</p>
+    <ol>
+      <li>Identify the encounters that have produced the best returns and place them early in the plan.</li>
+      <li>Build a group that can handle both damage and survival without long pauses.</li>
+      <li>Use buffs and consumables where they improve the group's consistency.</li>
+      <li>Record coffer results and adjust the route when the data changes.</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>What Separates a Clean Run From a Slow One</h2>
+    <p><strong>Team composition, encounter choice, and individual execution determine whether a Delve feels controlled or chaotic.</strong></p>
+    <p>A balanced group covers damage, healing, and support so that higher tiers do not become a sequence of emergencies. Individual metrics such as damage per second and healing per second matter, but they are most useful when compared with the group's plan. Gear, rotation, and positioning all influence those numbers, and reviewing them after a run reveals which change would help most. The aim is not perfection in every pull but fewer avoidable delays across the whole session.</p>
+  </section>
+
+  <section>
+    <h2>Problems That Interrupt Progress</h2>
+    <p><strong>Most failed pushes come from coordination gaps, underperformance, or unfamiliar mechanics rather than from a single impossible fight.</strong></p>
+    <p>Miscommunication can waste time before the first pull and leave roles unclear during a dangerous moment. A lack of synergy between damage and support turns manageable encounters into long recoveries. Underperformance often has a specific cause, such as a rotation that does not suit the encounter or a defensive tool saved for too long. Addressing these issues early keeps a bad run from becoming a pattern.</p>
+    <p>A short review after the run is often enough to expose the cause. Ask where the group waited without purpose, which encounter produced the most avoidable damage, and whether the chosen route matched the available tools. Those answers turn a frustrating session into information that can be used on the next attempt, without requiring a complete change of approach.</p>
+  </section>
+
+  <section>
+    <h2>What Future Delve Content May Bring</h2>
+    <p><strong>Delves are likely to expand with new mechanics, additional tiers, and revised rewards.</strong></p>
+    <p>The existing structure already points toward a future in which the tier system extends beyond Tier 11. New challenges and loot opportunities would change the balance between speed and risk, making the habit of tracking results more valuable rather than less. Players who understand the current curve will be better prepared to adapt when the next layer arrives.</p>
+  </section>
+
+</article>

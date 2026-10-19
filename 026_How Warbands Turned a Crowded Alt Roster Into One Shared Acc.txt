@@ -1,0 +1,80 @@
+<article>
+<header>
+<h1>How Warbands Turned a Crowded Alt Roster Into One Shared Account</h1>
+<p>For years, maintaining several characters meant maintaining several separate lives. Progress on one character rarely helped another, and the resulting repetition wore down even dedicated players. Warbands, introduced during The War Within, changed that relationship by treating the account as the unit that matters. Shared resources, shared progression, and a unified interface made alts feel like part of the same project rather than a series of isolated grinds. The shift did not remove every inconvenience, but it changed the daily experience of playing more than one character.</p>
+</header>
+
+<section>
+<h2>What Changed for Players Who Run Multiple Characters?</h2>
+<p><strong>Warbands reduced the friction of alt play by letting account-wide progress carry across the roster instead of resetting with each character.</strong></p>
+<p>Before the system, a player who wanted to explore a new class often faced the same reputations, the same achievements, and the same storage problems all over again. Warbands cut much of that repetition. Time invested on one character can now benefit others, which makes experimentation less costly and more appealing. The change is not only mechanical; it alters how players plan their play sessions, because a night spent on one alt no longer feels like time taken away from the rest of the account.</p>
+<p>The Campsite interface reinforces the same idea. It presents the roster as a single group and makes switching characters feel like moving between parts of one collection. That presentation matters because it frames the account as a cohesive identity rather than a pile of unrelated avatars.</p>
+</section>
+
+<section>
+<h2>Which Features Define the Warband System?</h2>
+<p><strong>Shared storage, account-wide reputation, and account-wide achievements form the core of the Warband experience.</strong></p>
+<p>The table below summarizes the main features and their practical effects.</p>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Description</th>
+<th>Impact on Gameplay</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Shared Bank</td>
+<td>A shared storage pool open to every character.</td>
+<td>Cuts down on duplicate banks and inventory juggling.</td>
+<td>Holds crafting materials and pooled gold.</td>
+</tr>
+<tr>
+<td>Account-Wide Reputation</td>
+<td>Reputation gains carry across the roster.</td>
+<td>Lets alts profit from work done on a main.</td>
+<td>Covers several factions from earlier expansions.</td>
+</tr>
+<tr>
+<td>Transmog Collection</td>
+<td>Appearances unlock for the whole account.</td>
+<td>Makes unlocked looks available across classes.</td>
+<td>Wearing a look still follows armor-type rules.</td>
+</tr>
+</tbody>
+</table>
+<p>Each feature solves a different kind of duplication. Storage duplication is handled by the shared bank, reputation duplication by account-wide progress, and appearance duplication by the collection system. The transmog note is important: unlocking an appearance for the account does not remove the armor-type requirement when a character actually wears it.</p>
+</section>
+
+<section>
+<h2>Why Does the Warband Bank Matter So Much?</h2>
+<p><strong>The Warband Bank centralizes materials and gold, removing the need to shuttle items between characters by hand.</strong></p>
+<p>Crafting becomes smoother when the necessary materials are already in a shared pool. A player does not have to log onto a specific character merely to withdraw reagents, and alts can contribute to the same stockpile instead of maintaining separate hoards. Gold pooling adds another layer of convenience, and the bank supports a substantial gold cap. The result is less inventory management and more time spent on the activity the player actually chose. For anyone who has spent an evening mailing items between characters, the difference is easy to appreciate.</p>
+</section>
+
+<section>
+<h2>How Should Players Use the System Day to Day?</h2>
+<p><strong>Routine use is straightforward: store shared resources, track reputation across the roster, and switch characters through the Campsite.</strong></p>
+<ol>
+<li>Use the Warband Bank for materials and gold that should be available to every character.</li>
+<li>Check reputation progress across the roster before repeating faction work on an alt.</li>
+<li>Manage characters through the Campsite interface to keep the roster organized.</li>
+<li>Plan play sessions knowing that progress on one character can benefit the others.</li>
+</ol>
+<p>These habits are simple, but they change prioritization. A player may decide to push reputation on a main because the benefit will reach every alt, or may move crafting materials into the shared bank before starting a new character. The system rewards that kind of planning without demanding it.</p>
+</section>
+
+<section>
+<h2>What Difficulties Remain?</h2>
+<p><strong>Shared resources can be harder to manage than separate ones, and not every part of the game has become account-wide.</strong></p>
+<p>Players accustomed to character-specific banks need time to adjust. It is easy to lose track of what belongs where, especially when several characters contribute to the same pool. Some progression also remains tied to individual characters, so the account-wide label does not cover everything. Recognizing those limits prevents disappointment and helps players decide when an alt still needs its own effort. The system is more convenient than the old model, but it is not automatic.</p>
+</section>
+
+<section>
+<h2>What Might Come Next for Warbands?</h2>
+<p><strong>Further refinements are likely as the system matures, with more account-wide features and fewer remaining gaps.</strong></p>
+<p>Blizzard has room to expand what can be shared and to smooth over the rough edges that remain. Future updates could widen the range of resources handled through the shared bank or address parts of the game that still require separate character progress. Players do not need to predict the details to benefit from the direction. The broader trend is toward treating the account as the primary identity, and that trend has already made alt play more inviting than it was before.</p>
+</section>
+</article>

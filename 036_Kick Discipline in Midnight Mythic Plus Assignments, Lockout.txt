@@ -1,0 +1,155 @@
+<article>
+
+  <header>
+
+    <h1>Kick Discipline in Midnight Mythic Plus: Assignments, Lockouts, and Clean PUG Runs</h1>
+
+    <p>Midnight Season 2 changed the interrupt conversation in Mythic+ by taking most healing interrupts out of the picture. Groups now lean on tanks and damage dealers to stop dangerous casts, and the quality of those assignments has a direct effect on how quickly a key moves. The advice below focuses on the habits that make pick-up groups reliable, from naming a kick before the pull to recovering when someone misses.</p>
+
+  </header>
+
+  <section>
+
+    <h2>Why does the healer change alter the whole group's rhythm?</h2>
+
+    <p><strong>With most healer interrupts removed, damage dealers and tanks must cover casts that used to be handled by a third role.</strong></p>
+
+    <p>Restoration Shamans remain an exception, but the general shift means a group can no longer assume that a healer will quietly stop the important spell. Every dangerous cast now needs an owner. That sounds simple until a pack contains several casters at once, which is where pre-pull planning earns its keep. The tank often holds the steadiest position and can cover a specific mob, while the damage dealers split the remaining threats between them. A group that sorts this out before the first pull avoids the usual scramble in which two players kick the same target and nobody covers the second cast.</p>
+
+  </section>
+
+  <section class="data-table">
+
+    <h2>Which casts demand a dedicated kick?</h2>
+
+    <p><strong>Priority interrupts are the casts that either remove player control, deal heavy group damage, or undo the group's progress through healing.</strong></p>
+
+    <p>The table lists three examples that illustrate the pattern. Each one is assigned to a role and carries a consequence severe enough that a missed kick changes the pull.</p>
+
+    <table>
+
+      <thead>
+
+        <tr>
+
+          <th>Dungeon</th>
+
+          <th>Must-Kick Cast</th>
+
+          <th>Role Responsible</th>
+
+          <th>Consequences of Miss</th>
+
+        </tr>
+
+      </thead>
+
+      <tbody>
+
+        <tr>
+
+          <td>Maisara Caverns</td>
+
+          <td>Hex on Ritual Hexxer</td>
+
+          <td>DPS</td>
+
+          <td>CC failure, wipe potential</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Nexus-Point Xenas</td>
+
+          <td>Divine Guile from Lothraxion</td>
+
+          <td>DPS</td>
+
+          <td>Raid damage, debuff stacks</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Algeth'ar Academy</td>
+
+          <td>Healing Touch on Ancient Branch</td>
+
+          <td>Tank</td>
+
+          <td>Wipe if not interrupted</td>
+
+        </tr>
+
+      </tbody>
+
+    </table>
+
+  </section>
+
+  <section>
+
+    <h2>How does the longer lockout shape a two-player rotation?</h2>
+
+    <p><strong>Each successful interrupt now silences the caster for a longer period, which makes a coordinated pair more effective than a crowd of overlapping kicks.</strong></p>
+
+    <p>The practical effect is easiest to see with a concrete example. If a damage dealer interrupts a four-second cast, the resulting silence lasts roughly six seconds because of the increased lockout. That window is long enough for a partner to handle the next dangerous cast without either player wasting a kick. The pair can alternate, covering a sequence of casts that would otherwise force the group to absorb one. Communication is what keeps the alternation from collapsing, especially in a pick-up group where nobody knows how the others react under pressure.</p>
+
+  </section>
+
+  <section>
+
+    <h2>How should a PUG set up kicks before the pull?</h2>
+
+    <p><strong>Effective assignments are specific, confirmed, ordered, and backed by a fallback.</strong></p>
+
+    <p>Specific means naming both the caster and the player responsible. Confirmed means the group has acknowledged the plan rather than assuming silence equals agreement. Ordered means the players know who kicks first and who takes the next cast, so the rotation does not stall. A fallback covers the inevitable miss without requiring a fresh debate while the cast bar fills.</p>
+
+    <ol>
+
+      <li>Name the caster and the player responsible before engaging.</li>
+
+      <li>Confirm the assignment in voice or group chat.</li>
+
+      <li>Set a rotation order so kicks do not overlap.</li>
+
+      <li>Decide in advance who covers the next cast if the first player misses.</li>
+
+    </ol>
+
+  </section>
+
+  <section>
+
+    <h2>What does a missed kick actually cost?</h2>
+
+    <p><strong>A missed interrupt can wipe the group, spike damage across the party, or simply slow the run enough that later pulls become riskier.</strong></p>
+
+    <p>The consequences are easiest to understand through the examples above. Missing Healing Touch on the Ancient Branch in Algeth'ar Academy can end the attempt, because the healing can outpace the group's damage. Missing Divine Guile from Lothraxion produces raid damage and stacking debuffs that make the rest of the encounter harder to heal. Missing Hex in Maisara Caverns leaves the group exposed to control effects and the possibility of a cascade into a wipe. None of these outcomes is recoverable through sheer damage; prevention is the only reliable answer.</p>
+
+    <p>Panic makes the problem worse. A player who reacts to a missed kick by immediately spending another interrupt may leave the following cast uncovered. The calmer response is to call the miss, let the assigned partner take the next cast, and use crowd control or mitigation to survive the gap.</p>
+
+  </section>
+
+  <section>
+
+    <h2>How can a group troubleshoot interrupt problems mid-run?</h2>
+
+    <p><strong>Identify which cast landed, adjust assignments immediately, and use crowd control or mitigation to absorb the mistake.</strong></p>
+
+    <p>A short, factual callout works better than a long explanation. State what was missed and who will cover it next time, then continue. If the group is struggling to track assignments, a tool such as FellowKick can make the plan visible and reduce the chance that two players drift toward the same target. Visual cues are particularly helpful in a pick-up group where voice communication may be limited. The goal is not to assign blame but to restore coverage before the next dangerous cast.</p>
+
+  </section>
+
+  <section>
+
+    <h2>What builds long-term interrupt confidence?</h2>
+
+    <p><strong>Repeated runs, familiarity with each dungeon's cast list, and practice communicating under pressure turn interrupt management into a reflex.</strong></p>
+
+    <p>Experience teaches which casts deserve a kick and which can be healed through. That knowledge accumulates faster when a player reviews a run afterward and identifies the moments where coverage broke down. As new dungeons enter the rotation, the same habits apply: learn the priority casts, assign them clearly, and keep the rotation simple enough to survive contact with a messy pull. Groups that communicate well recover from mistakes that would end a silent run, and that resilience is what makes a key feel smooth rather than merely successful.</p>
+
+  </section>
+
+</article>

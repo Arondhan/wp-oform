@@ -1,0 +1,78 @@
+<article>
+  <header>
+    <h1>Swirlies Don't Care About Your Stamina: Timing Defensives and Healthstones Instead</h1>
+    <p>Stacking stamina feels safe until a swirl appears under your feet and removes the entire health bar in one tick. One-shot mechanics are not a gear check in the traditional sense; they are a timing check. This guide explains why personal defensives and healthstone windows matter more than a bigger pool, and how to build the reflexes that keep you alive when the ground turns hostile.</p>
+  </header>
+
+  <section class="data-table">
+    <h2>What makes one-shot swirlies different from ordinary damage?</h2>
+    <p><strong>One-shot swirlies are high-damage area effects designed to punish late reactions, not to be out-healed after the fact.</strong></p>
+    <p>The tell is simple: the damage arrives in a burst that is meant to be avoided or mitigated, not absorbed. That is why raw health is a weak answer. A larger pool buys a fraction of a second, while a defensive cooldown changes the math entirely. The table below compares the tools players actually have.</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Tool</th>
+          <th>Effect</th>
+          <th>Typical value</th>
+          <th>Survivability impact</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Personal defensive</td>
+          <td>Damage reduction</td>
+          <td>40 to 50 percent</td>
+          <td>High</td>
+        </tr>
+        <tr>
+          <td>Healthstone</td>
+          <td>Instant heal</td>
+          <td>20 to 30 percent</td>
+          <td>Very high when timed</td>
+        </tr>
+        <tr>
+          <td>Stamina stacking</td>
+          <td>Larger health pool</td>
+          <td>Roughly 1000 to 2000 health</td>
+          <td>Low against one-shots</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>The numbers are less important than the ordering. A defensive pressed before the hit prevents damage; a healthstone pressed after the hit repairs it; stamina simply gives the healer a slightly larger buffer to work with.</p>
+  </section>
+
+  <section>
+    <h2>Why do personal defensives beat raw health?</h2>
+    <p><strong>Defensives reduce the incoming hit itself, while health only changes how much of the hit you can survive.</strong></p>
+    <p>A damage reduction cooldown applied before a swirl lands can turn a lethal overlap into a survivable one. The same cooldown pressed after the fact does nothing. That timing gap is where most deaths happen, and it is why players who know the encounter's rhythm outperform players with better gear but slower reactions.</p>
+    <p>Every class has access to something useful here, whether it is a shield, a flat reduction, or a short immunity. The mistake is saving it for a "better" moment. Against one-shot mechanics, the best moment is the one you are about to miss.</p>
+  </section>
+
+  <section>
+    <h2>When should a healthstone leave your bag?</h2>
+    <p><strong>Use healthstones proactively around damage spikes, not as a panic button after your health is already gone.</strong></p>
+    <p>Healthstones are instant, which makes them perfect for the half-second window between a big hit and the next tick. Waiting until you are nearly dead usually means waiting too long. A practical routine looks like this:</p>
+    <ol>
+      <li>Watch the encounter timeline and identify the phases where swirlies overlap with other damage.</li>
+      <li>Use the healthstone when your health drops below roughly half, before the next spike lands.</li>
+      <li>Coordinate with your healer so the stone does not overlap with a major heal.</li>
+      <li>Track the cooldown and plan the next use around the next known damage window.</li>
+    </ol>
+    <p>Treat the stone as part of your rotation during dangerous phases, not as an emergency item you remember at the last second.</p>
+  </section>
+
+  <section>
+    <h2>What mistakes burn cooldowns early?</h2>
+    <p><strong>The most common errors are reacting late, overlapping defensives with healers, and trusting stamina to cover a mechanic it cannot cover.</strong></p>
+    <p>Players often press a defensive the instant they see damage, which is better than never but still wastes the window if the real hit is three seconds away. Others stack defensives with a healer's cooldown and leave themselves exposed for the next overlap. And some simply refuse to move, believing a large health pool will carry them through a mechanic that was never designed to be tanked.</p>
+    <p>Reviewing a death from the log is the fastest cure. Look at the timestamp of the hit, the timestamp of your cooldown, and the gap between them. That gap is what you are practicing to close.</p>
+  </section>
+
+  <section>
+    <h2>How do you prepare before the pull?</h2>
+    <p><strong>Learn the mechanic, practice the reaction, and decide in advance which cooldown answers which swirl.</strong></p>
+    <p>Preparation is mostly mental. Read the encounter, watch a kill video, and note where the swirls overlap with other pressure. Then assign your tools: which cooldown handles the first overlap, which handles the second, and when the healthstone fills the gap. Doing that planning before the pull removes the hesitation that causes late presses.</p>
+    <p>Practice in lower-stakes content if the encounter is new. A mechanic you have seen ten times in a forgiving environment is much easier to react to when the stakes rise.</p>
+    <p>One more habit helps: decide your defensive order before the run starts. If two swirls land close together, knowing which cooldown covers the first and which covers the second prevents the panic overlap that wastes both. A written order is not necessary; a single sentence in voice chat is enough. The goal is to make the reaction automatic, so the only decision left during the fight is where to stand and when to move.</p>
+  </section>
+</article>

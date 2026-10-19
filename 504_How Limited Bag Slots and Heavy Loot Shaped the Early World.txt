@@ -1,0 +1,84 @@
+<article>
+  <header>
+    <h1>How Limited Bag Slots and Heavy Loot Shaped the Early World of Warcraft Experience</h1>
+    <p>Early World of Warcraft asked players to treat inventory space as a resource in its own right. Bags filled quickly, repairs and weight had real consequences, and a trip back to town could interrupt an entire evening of questing. The result was a style of play in which deciding what to carry mattered as much as deciding where to go.</p>
+  </header>
+
+  <section>
+    <h2>Why Did Inventory Management Change the Pace of Play?</h2>
+    <p><strong>Limited space forced players to choose between quest items, consumables, crafting materials, and loot that might be sold later.</strong></p>
+    <p>Every slot carried an opportunity cost. Keeping a stack of materials meant leaving behind a piece of gear or a consumable that could be useful in the next fight. Players learned to prioritize quest items and immediate survival supplies, then treat crafting materials and vendor loot as secondary. That ranking changed from session to session, depending on where the character was and what the next objective required.</p>
+    <p>The need to return to town added another layer. Selling, banking, and repairing pulled players away from the open world, and travel time made poor planning expensive. Item durability reinforced the habit, since gear at zero could not be used until repaired. Weight mattered too, because a heavy inventory slowed movement, making long journeys dangerous and inefficient.</p>
+  </section>
+
+  <section class="data-table">
+    <h2>What Were the Practical Bag Limits?</h2>
+    <p><strong>Early bags came in small, medium, and large sizes, with the largest holding 16 slots, and a character could carry four bags in total.</strong></p>
+    <p>The table summarizes the common bag sizes, their capacity, the items they were used for, and the weight limit associated with each. The differences look modest, but in a system where every slot mattered, moving from a small bag to a large one changed how long a player could stay in the field.</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Bag Type</th>
+          <th>Slots</th>
+          <th>Item Type</th>
+          <th>Weight Cap</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Small Bag</td>
+          <td>8</td>
+          <td>General</td>
+          <td>100</td>
+        </tr>
+        <tr>
+          <td>Medium Bag</td>
+          <td>12</td>
+          <td>General</td>
+          <td>150</td>
+        </tr>
+        <tr>
+          <td>Large Bag</td>
+          <td>16</td>
+          <td>General</td>
+          <td>200</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>With four bags equipped, even a full set of large bags had a finite ceiling. Players who filled every slot with materials soon discovered that the limit was not theoretical. It arrived in a dungeon, at the end of a long quest chain, or just as a valuable drop appeared.</p>
+  </section>
+
+  <section>
+    <h2>What Habits Made Inventory Easier to Handle?</h2>
+    <p><strong>Categorizing items, using bank space, selling regularly, and upgrading bags were the foundation of a workable system.</strong></p>
+    <p>A player who knew where each type of item lived could act quickly instead of searching through a full bag. Consumables in one place, quest items in another, and materials in a third reduced the time spent rummaging. The bank provided overflow for items that were not needed immediately but might become useful later.</p>
+    <ol>
+      <li>Sort items into clear categories, separating consumables, quest items, and crafting materials.</li>
+      <li>Move rarely used items to the bank so the bags stay available for active play.</li>
+      <li>Visit vendors regularly to sell excess loot and free up space.</li>
+      <li>Acquire larger bags whenever possible to raise the overall capacity.</li>
+    </ol>
+    <p>These steps did not eliminate the problem, but they made it predictable. Clearing bags before a long trip avoided the worst interruptions, and keeping consumables accessible let a player respond to danger without opening every container. The discipline was simple, yet it separated smooth sessions from frustrating ones.</p>
+  </section>
+
+  <section>
+    <h2>How Did Players Build Better Inventory Systems?</h2>
+    <p><strong>A balanced inventory, helpful add-ons, and some thought about future content made management more effective.</strong></p>
+    <p>Balance meant keeping enough consumables and quest items on hand while leaving room for new loot. Filling every slot with materials left no capacity for the unexpected, and the resulting choices were often rushed. Leaving a margin made it easier to accept a good drop without destroying something useful.</p>
+    <p>Add-ons such as Bagnon and ArkInventory changed the experience by presenting the inventory as a single organized view. Instead of opening each bag separately, players could see everything at once and identify what was consuming space. These tools also helped track item usage and durability, which supported better preparation. Planning for future content added another layer, since knowing what an upcoming quest or raid might require helped players decide what to keep and what to discard.</p>
+  </section>
+
+  <section>
+    <h2>What Went Wrong When Inventory Was Neglected?</h2>
+    <p><strong>Poor management led to wasted resources, missed loot, extra downtime, and slower movement through the world.</strong></p>
+    <p>Running out of consumables in a critical moment was a common consequence. A player who had filled every slot with materials might find no room for potions or food, turning a manageable fight into a desperate one. Missed loot was another cost, because a full inventory meant valuable drops could not be picked up.</p>
+    <p>Downtime accumulated as well. Frequent trips to town to sell or repair broke the flow of play and made the world feel smaller. In raids and PvP, where seconds matter, that interruption could be decisive. Carrying too much weight produced a subtler penalty, slowing movement and making gathering or questing less efficient. Together these problems turned inventory into a constant background concern.</p>
+  </section>
+
+  <section>
+    <h2>How Could Players Prepare for Future Inventory Challenges?</h2>
+    <p><strong>Staying informed, using management tools, and keeping strategies flexible helped players adapt as the game changed.</strong></p>
+    <p>Patch notes and expansion information often hinted at new items or changed mechanics that would affect bag space. A player who followed those changes could decide in advance what to keep and what to clear out. The same awareness made it easier to judge whether a new container or storage option was worth pursuing.</p>
+    <p>Tools remained useful, but they could not replace judgment. Add-ons made the inventory visible; they did not decide what mattered. Flexible strategies helped when a new activity demanded different supplies. The durable approach was to treat inventory as part of the planning layer rather than an afterthought, because early World of Warcraft rewarded players who understood that space, weight, and preparation were connected.</p>
+  </section>
+</article>

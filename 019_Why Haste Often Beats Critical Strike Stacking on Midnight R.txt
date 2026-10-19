@@ -1,0 +1,82 @@
+<article>
+
+  <header>
+    <h1>Why Haste Often Beats Critical Strike Stacking on Midnight Raid Gear</h1>
+    <p>Secondary stats do not deliver the same value at every level. In the Midnight expansion, diminishing returns make the choice between Haste and Critical Strike more interesting than a simple preference for bigger numbers. This article explains how the penalties work, why Haste frequently offers the steadier return, and how to build a gear set without pushing a stat past the point where it stops paying for itself.</p>
+  </header>
+
+  <section>
+    <h2>Why More of a Stat Is Not Always More Value</h2>
+    <p><strong>Secondary stats stop increasing linearly once their ratings pass certain thresholds.</strong></p>
+    <p>Haste, Critical Strike, Versatility, and Mastery all follow a curve rather than a straight line. After a character passes a threshold, each additional percentage costs more rating than the one before it. For example, once a secondary stat reaches 30 percent, further gains incur penalties that make the next points less efficient. The system nudges players toward a balanced distribution instead of allowing one stat to carry the entire build. Ignoring the curve can produce a character with an impressive sheet percentage and a disappointing real gain.</p>
+  </section>
+
+  <section>
+    <h2>The Rating and Penalty Brackets in Practice</h2>
+    <p><strong>The cost of one percent and the size of the penalty both matter when comparing two stats.</strong></p>
+    <p>At level 90, the ratings needed for one percent differ by stat, so equal rating totals do not produce equal percentages. The table below summarizes the values and the penalty bands that apply once a stat moves beyond the first threshold. The practical lesson is not to memorize a single number but to check where a character currently sits before adding more of the same rating.</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Secondary Stat</th>
+          <th>Rating per 1%</th>
+          <th>30-39% Band</th>
+          <th>40-50% Band</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Haste</td>
+          <td>44</td>
+          <td>10% Penalty</td>
+          <td>20% Penalty</td>
+        </tr>
+        <tr>
+          <td>Crit</td>
+          <td>46</td>
+          <td>10% Penalty</td>
+          <td>20% Penalty</td>
+        </tr>
+        <tr>
+          <td>Versatility</td>
+          <td>54</td>
+          <td>10% Penalty</td>
+          <td>20% Penalty</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Why Haste Usually Provides the More Reliable Return</h2>
+    <p><strong>Haste improves the rate at which a character acts and can reduce cooldowns, producing benefits across an entire encounter.</strong></p>
+    <p>Faster casting and quicker attacks create a steady stream of value rather than a series of isolated spikes. Critical Strike can produce exciting bursts, but its randomness makes performance less predictable, and its own diminishing returns reduce the appeal of stacking it without limit. In prolonged fights where sustained output matters, consistency often wins. Recent Season 3 adjustments have also made Haste more attractive by changing how its penalties apply, which strengthens the case for treating it as a primary target rather than an afterthought.</p>
+  </section>
+
+  <section>
+    <h2>Building a Gear Set Around Haste</h2>
+    <p><strong>A Haste-focused setup combines favorable item ratings with enchants and gems that reinforce the same direction.</strong></p>
+    <p>Look for gear that carries a meaningful amount of Haste, and pay attention to trinkets and weapons that support the stat. Enchants and gems can close the gap when a promising item lacks the exact distribution you want. The goal is not to accumulate Haste blindly; it is to reach a useful level while avoiding the brackets where additional rating becomes inefficient. Checking the character sheet after each change keeps the build honest.</p>
+  </section>
+
+  <section>
+    <h2>Staying Below the Point of Diminishing Value</h2>
+    <p><strong>Monitoring the current percentage is the simplest defense against wasting rating.</strong></p>
+    <p>Players should review their secondary stats regularly and adjust gear when a stat approaches a threshold that offers poor returns. Temporary consumables can provide a short burst of Haste without permanently distorting the rating distribution, which makes them useful for specific encounters. It is also worth remembering that flat percentage effects from spells such as Bloodlust or Heroism do not count toward diminishing returns, so they remain valuable regardless of the permanent build.</p>
+    <p>A little discipline goes a long way here. The following checks are quick enough to repeat whenever a new item arrives, and they make an accidental overinvestment much less likely.</p>
+    <ul>
+      <li>Check the character sheet before and after every gear change.</li>
+      <li>Leave a margin below a threshold instead of sitting exactly on it.</li>
+      <li>Use temporary boosts for specific encounters rather than permanent overinvestment.</li>
+      <li>Recheck priorities when a patch changes how the stats behave.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>The Long-Term Case for Consistency</h2>
+    <p><strong>Prioritizing Haste tends to produce stable damage and smoother resource management over a full encounter.</strong></p>
+    <p>That stability is valuable in raids and competitive play, where a predictable contribution is easier to plan around than a lucky streak. More frequent casts and shorter cooldowns can improve how a character responds to changing fight conditions. Players who understand the curve can also adapt more confidently when new gear arrives, because they know which trades are worth making. The result is a setup that remains effective as content evolves rather than one that depends on a single inflated stat.</p>
+    <p>This does not make Critical Strike useless; it means the stat needs a reason beyond the hope of a large spike. A build that mixes dependable Haste with enough Crit to support its own effects is often easier to evaluate than one that commits entirely to either extreme.</p>
+  </section>
+
+</article>

@@ -1,0 +1,80 @@
+<article>
+<header>
+<h1>Reading Two-Choice Vault Weeks: Finding Catalyst Value Before You Commit</h1>
+<p>The Great Vault remains one of the most important weekly decisions in World of Warcraft's Midnight Season 2. It offers a set of loot options, but only one can be taken, and the value of each option depends on what a player already owns. Two-choice weeks sharpen that decision because there is less room to hedge. The Catalyst adds another layer, since using it at the wrong moment can undermine the very upgrade a player is trying to protect. Careful reading before selection is the whole game.</p>
+</header>
+
+<section>
+<h2>What Does the Vault Actually Offer Each Week?</h2>
+<p><strong>The Vault can present up to nine loot options, but a player selects only one, with rows covering raids, Mythic+ dungeons, and world activities.</strong></p>
+<p>Each row has its own completion thresholds and its own item-level ceiling. Raid progress, dungeon clears, and world activities all feed separate slots, so a player who ignores one type of content narrows the available choices. The table below summarizes the structure and the approximate ceilings attached to each row.</p>
+<table>
+<thead>
+<tr>
+<th>Row Type</th>
+<th>Completion Requirement</th>
+<th>Item Level</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Raid</td>
+<td>2/4/6 Bosses</td>
+<td>Varies (up to 344)</td>
+<td>Mythic rewards depend on progress</td>
+</tr>
+<tr>
+<td>Dungeons (Mythic+)</td>
+<td>1/4/8 Dungeons</td>
+<td>Varies (up to 318)</td>
+<td>Higher keys raise score, not Vault item quality</td>
+</tr>
+<tr>
+<td>World</td>
+<td>2/4/8 Activities</td>
+<td>Varies (up to 305)</td>
+<td>This row cannot provide Myth-track rewards</td>
+</tr>
+</tbody>
+</table>
+<p>The notes matter as much as the numbers. A higher Mythic+ key may improve a player's score without improving the quality of the Vault slot, and the world row cannot supply Myth-track rewards. Knowing those limits prevents false expectations before the options are even revealed.</p>
+</section>
+
+<section>
+<h2>How Can Players Make the Most of Their Weekly Options?</h2>
+<p><strong>Maximizing the Vault means completing a spread of activities and choosing an item that fills a real gap in the current gear set.</strong></p>
+<p>Unlocking all three rows requires attention to raids, dungeons, and world content across the week. Each completed activity contributes to the relevant slot, and a broader spread produces more choices when the Vault opens. That said, more choices are only useful if the player knows what they need. Comparing the available item levels against equipped pieces is more productive than chasing the highest number on the screen. A slightly lower item that replaces a weak slot can outperform a higher item that duplicates an already strong one.</p>
+<p>Difficulty deserves the same scrutiny. If a player can complete a harder raid or dungeon without disrupting the rest of their schedule, doing so can improve the relevant row. Tracking progress across content types also prevents the common situation where one row is fully unlocked while another sits empty.</p>
+</section>
+
+<section>
+<h2>When Should the Catalyst Be Used?</h2>
+<p><strong>The Catalyst should generally wait until after the Vault has been opened and its options have been reviewed.</strong></p>
+<ol>
+<li>Review current gear and note which pieces could benefit from the Catalyst.</li>
+<li>Open the Great Vault and examine every available option.</li>
+<li>Consider whether the Vault might supply a higher item-level piece for the same slot.</li>
+<li>Use the Catalyst only when confident that the result will not be replaced immediately.</li>
+</ol>
+<p>There is no benefit to rushing. The Catalyst can improve gear significantly, but spending it before seeing the weekly options risks duplicating an upgrade that was about to arrive anyway. A short pause between opening the Vault and committing resources is usually enough to avoid that mistake.</p>
+</section>
+
+<section>
+<h2>Which Mistakes Recur Most Often?</h2>
+<p><strong>The most common errors are using the Catalyst too early and failing to complete enough activities to unlock useful slots.</strong></p>
+<p>Both mistakes share a root cause: acting before checking the full picture. A player who ignores the breadth of available content may open a Vault with fewer options than expected, while a player who spends the Catalyst first may later find a better item waiting. Keeping an eye on current item levels makes the comparison concrete. A weekly routine that mixes raid, dungeon, and world activities reduces the chance of either problem and turns the Vault into a dependable part of gearing rather than a lottery.</p>
+</section>
+
+<section>
+<h2>How Does the Nebulous Voidcore Change the Calculation?</h2>
+<p><strong>A Nebulous Voidcore can be chosen instead of a gear piece, trading a direct item for a targeted loot attempt.</strong></p>
+<p>That trade-off is useful when the available gear does not address a specific need. Rather than accepting an item that will sit unused, a player can aim at the loot they actually want. The option also softens the randomness of the weekly system, though it does not remove it. Deciding whether to take the Voidcore depends on how urgently the current gear needs an upgrade and how much value the available pieces represent. When the Vault already offers a clear improvement, taking the item is usually the simpler path; when it does not, the targeted attempt becomes more attractive.</p>
+</section>
+
+<section>
+<h2>What Should Players Watch for in Future Updates?</h2>
+<p><strong>Vault rules can shift with patches and expansions, so players should treat current thresholds as temporary rather than permanent.</strong></p>
+<p>Item levels, completion requirements, and reward structures may all change. Following patch notes and community discussion helps players adjust without guessing. The broader lesson is that the Vault rewards preparation more than impulse. A player who understands the current rules, checks their gear honestly, and waits before spending limited resources will make better choices than one who simply takes the highest number in front of them.</p>
+</section>
+</article>

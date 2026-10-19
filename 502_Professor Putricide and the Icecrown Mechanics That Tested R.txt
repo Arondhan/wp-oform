@@ -1,0 +1,84 @@
+<article>
+  <header>
+    <h1>Professor Putricide and the Icecrown Mechanics That Tested Raid Discipline</h1>
+    <p>Icecrown Citadel gave Wrath of the Lich King raiders plenty of walls to hit, and Professor Putricide stands out as one of the most demanding. His laboratory fight asks a raid to manage slime, abominations, and choking gas at the same time. Guilds that treated the encounter as a simple damage check usually learned otherwise. The fight's reputation comes from the way its mechanics punish sloppy movement and delayed decisions rather than from raw boss health alone.</p>
+  </header>
+
+  <section>
+    <h2>Why the professor became a guild checkpoint</h2>
+    <p><strong>Professor Putricide's encounter combines slime puddles, mutated abominations, and Gaseous Blight into a test of coordination.</strong></p>
+    <p>Each element is manageable on its own. Together they create a room where positioning, target priority, and healing all compete for attention. A raid that focuses only on the boss will eventually lose control of the floor. A raid that overreacts to every puddle may fall behind on damage. The encounter therefore rewards a group that understands the full set of mechanics and assigns clear responsibilities before pulling.</p>
+    <p>What makes the encounter memorable is the overlap. A puddle placed badly can cut off a safe route just as an abomination demands attention, and a gas cloud can force the raid to move through territory it would rather avoid. Groups that practice the fight learn to solve several problems at once instead of treating each mechanic as a separate event.</p>
+  </section>
+
+  <section>
+    <h2>Positioning keeps the room controllable</h2>
+    <p><strong>Effective positioning is the difference between a manageable floor and a raid-wide collapse.</strong></p>
+    <p>Players should keep a safe distance from slime puddles and spread out when Gaseous Blight threatens the group. Designated zones based on role help people move without crossing through hazards. The encounter's phases change what is required, so the raid must be ready to shift positions quickly rather than settling into one spot. Practice runs, raid maps, and positioning guides can help a guild visualize where everyone belongs. Clear callouts from a raid leader keep the group synchronized when the room becomes crowded.</p>
+  </section>
+
+  <section>
+    <h2>Slime puddles punish standing still</h2>
+    <p><strong>Slime puddles inflict damage over time and slow anyone caught inside them, which can unravel the group's movement.</strong></p>
+    <p>The puddles appear in patterns tied to the encounter's phases and can overlap, turning small hazards into a much larger dangerous area. A player who waits too long before moving may find the escape route already covered. Movement abilities help, and consumables that increase movement speed give the raid more room to maneuver. A designated caller can announce placements so that damage dealers and healers do not drift into fresh slime. The more puddles overlap, the greater the risk, so avoiding unnecessary overlap is a shared responsibility.</p>
+  </section>
+
+  <section>
+    <h2>Handling mutated abominations</h2>
+    <p><strong>Mutated abominations threaten players with powerful attacks and become more durable as the raid grows.</strong></p>
+    <p>Their effective health scales with the number of players, so larger groups need more coordinated damage to remove them quickly. Their charge attack can be avoided by keeping distance. The raid should prioritize these adds, focus fire on one at a time, and use stuns or slows to limit their movement. Healers must keep the targeted players alive while damage dealers maintain pressure. Assigning specific players to the abominations prevents the chaotic spread of attention that lets adds run loose.</p>
+    <ol>
+      <li>Decide who will handle abominations before the pull.</li>
+      <li>Focus all damage on a single abomination until it dies.</li>
+      <li>Use stuns and slows to control its movement.</li>
+      <li>Save healing and damage-reduction cooldowns for dangerous overlaps.</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>The three mechanics and their answers</h2>
+    <p><strong>The encounter's core mechanics can be summarized by what they do and how a raid should respond.</strong></p>
+    <table>
+      <thead>
+        <tr>
+          <th>Mechanic</th>
+          <th>Effect</th>
+          <th>Response</th>
+          <th>Support</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Slime Puddles</td>
+          <td>Damage over time and a slow</td>
+          <td>Stay out of them</td>
+          <td>Movement abilities</td>
+        </tr>
+        <tr>
+          <td>Mutated Abominations</td>
+          <td>Powerful attacks on players</td>
+          <td>Focus fire and control</td>
+          <td>Crowd control</td>
+        </tr>
+        <tr>
+          <td>Gaseous Blight</td>
+          <td>Area damage</td>
+          <td>Spread out</td>
+          <td>Healing cooldowns</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Mistakes that turn a close attempt into a wipe</h2>
+    <p><strong>Most failed attempts trace back to communication, positioning, or complacency rather than a lack of gear.</strong></p>
+    <p>Poor communication leaves players unsure of their roles when a mechanic demands an immediate reaction. Weak positioning can catch several raiders in the same damaging effect, multiplying the healing burden. Complacency around slime puddles is another common problem: players stop watching the floor and take avoidable damage. Failing to use movement abilities quickly enough makes those mistakes worse. Ignoring abominations allows them to overwhelm the raid, and a group that does not review its attempts repeats the same errors. Post-raid analysis helps identify which of these patterns is costing the guild the most.</p>
+  </section>
+
+  <section>
+    <h2>What future approaches may look like</h2>
+    <p><strong>Raid strategy around encounters like this continues to evolve as communication tools and group habits change.</strong></p>
+    <p>Voice chat and raid management software make it easier to share real-time information and adjust positioning. Pre-established movement patterns can reduce hesitation during phase changes. As guilds grow more comfortable with the mechanics, some may favor more aggressive damage strategies instead of purely defensive play. Experimenting with compositions and roles may produce new solutions. Community knowledge-sharing accelerates that process, which is why encounters in Icecrown Citadel remain a subject of discussion long after their release.</p>
+  </section>
+</article>

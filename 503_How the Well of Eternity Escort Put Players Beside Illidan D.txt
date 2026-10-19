@@ -1,0 +1,79 @@
+<article>
+  <header>
+    <h1>How the Well of Eternity Escort Put Players Beside Illidan During the Ancient War</h1>
+    <p>Cataclysm's Well of Eternity dungeon does something unusual with the War of the Ancients: it lets a party walk through a legendary moment instead of only hearing about it afterward. The escort chapter centered on Illidan Stormrage turns the usual damage race into a protection detail. Rather than trying to kill the famous sorcerer, the group must keep him alive while he channels his spells. That shift in purpose makes the sequence memorable and explains why so many runs succeed or fail on a single health bar.</p>
+  </header>
+
+  <section>
+    <h2>The escort is a required chapter, not a side path</h2>
+    <p><strong>No group can bypass the Illidan sequence while working through the Well of Eternity dungeon.</strong></p>
+    <p>Groups must complete the escort to continue through the dungeon and to experience the full storyline. While the scenario runs, Illidan channels powerful magic against the enemy, and the party effectively becomes his bodyguard. His health is the true measure of success. If it reaches zero, the quest fails and the group has to resume from the last checkpoint. That rule changes priorities: damage dealers cannot simply chase whatever looks threatening, and healers cannot treat Illidan as scenery.</p>
+  </section>
+
+  <section>
+    <h2>A protection plan built on placement and attention</h2>
+    <p><strong>Keeping Illidan upright depends on where the group stands, how quickly it intercepts enemies, and how carefully healers watch his health.</strong></p>
+    <p>The party should position itself between Illidan and incoming waves, meeting enemies before they can reach him. Crowd control such as stuns and slows buys time and keeps dangerous mobs away from the escort target. Healers need to monitor his health closely and use healing spells and cooldowns before a bad spike becomes fatal. Environmental hazards and area attacks add another layer, so players should stay alert to the ground beneath them as well as the enemies ahead. Roles should be agreed early: who tanks, who deals damage, and who keeps the escort alive.</p>
+    <ul>
+      <li>Agree on tank, damage, and healing duties before the first wave.</li>
+      <li>Use stuns and slows to keep enemies away from Illidan.</li>
+      <li>Stand between Illidan and incoming attackers rather than behind him.</li>
+      <li>Watch his health and heal proactively instead of waiting for a crisis.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>The enemies that test the group</h2>
+    <p><strong>The escort mixes several kinds of enemies, and each demands a different response.</strong></p>
+    <p>Demons and corrupted Night Elves apply pressure in different ways, while elite bosses anchor the toughest moments. Summoners are especially dangerous because extra foes can overwhelm a group that is already stretched. Prioritizing the right target is often more valuable than raw damage.</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Enemy</th>
+          <th>Behavior</th>
+          <th>Best response</th>
+          <th>Reminder</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Corrupted Night Elf</td>
+          <td>Ranged attacks and stealth</td>
+          <td>Focus fire to remove them quickly</td>
+          <td>They can evade detection</td>
+        </tr>
+        <tr>
+          <td>Infernal Demon</td>
+          <td>Area fire damage</td>
+          <td>Spread out to avoid the damage</td>
+          <td>It can summon more demons</td>
+        </tr>
+        <tr>
+          <td>Elite Boss</td>
+          <td>Heavy damage and special abilities</td>
+          <td>Coordinate cooldowns for burst damage</td>
+          <td>Teamwork is required</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Timing, spawn points, and the last stand</h2>
+    <p><strong>The escort rewards groups that read its rhythm instead of reacting late.</strong></p>
+    <p>Enemy waves arrive from predictable points, and Illidan's channeling sets the pace of the fight. Knowing when a new group will appear lets players prepare crowd control and cooldowns instead of scrambling. Area spells clear packs efficiently, while focused single-target damage removes the tougher enemies before they cause problems. Communication matters throughout, particularly when a particular foe needs a specific approach. The sequence ends in a climactic battle that tests whether the group has actually learned the encounter's lessons.</p>
+  </section>
+
+  <section>
+    <h2>Coordination that goes beyond the basics</h2>
+    <p><strong>Experienced groups gain an edge by planning cooldown use and adapting on the fly.</strong></p>
+    <p>Players should know how their class abilities fit together. A tank can spend defensive cooldowns to absorb a dangerous stretch while damage dealers use their strongest attacks, and healers can plan their own resources around those moments. If one enemy proves stubborn, changing focus or reassigning duties can rescue an attempt. Flexibility matters more than a rigid plan, because the escort punishes groups that keep repeating a failing approach.</p>
+    <p>Positioning discipline also matters when the group is forced to move. A party that drifts apart while chasing kills creates gaps that enemies can exploit, and Illidan can be left exposed even when everyone believes they are helping. Staying close enough to support one another while still intercepting incoming waves is the balance the encounter asks for.</p>
+  </section>
+
+  <section>
+    <h2>Preparation, failure, and the reward at the end</h2>
+    <p><strong>Good preparation and a calm reset make the escort far less punishing than it first appears.</strong></p>
+    <p>Before starting, players should bring suitable gear and consumables and discuss roles and strategy. During the run, situational awareness keeps the group from being caught by a sudden wave or hazard. After each wave, everyone should regroup, check health and resources, and proceed only when ready. Failure is possible, but the checkpoint keeps it from erasing all progress. Completing the escort yields dungeon loot, including gear and items that improve a character, along with experience and a closer view of the lore that surrounds the War of the Ancients.</p>
+  </section>
+</article>

@@ -1,0 +1,91 @@
+<article>
+  <header>
+    <h1>Devourer Demon Hunter in Midnight Mythic Plus: Synergies, Gear, and Consumable Discipline</h1>
+    <p>The Devourer Demon Hunter earns its place in Midnight Mythic Plus through a loop of soul consumption, amplified damage, and self-healing. Success depends on how well the player fits that loop around dungeon mechanics, group needs, and the gear and consumables that support it.</p>
+  </header>
+
+  <section>
+    <h2>Why Does Positioning Matter So Much for a Devourer?</h2>
+    <p><strong>As a melee specialization, the Devourer must stay close enough to act while avoiding damage that would waste its self-healing.</strong></p>
+    <p>Good positioning keeps ability uptime high without turning every mechanic into a survival emergency. Standing in the wrong place forces movement at the exact moment the damage cycle needs to continue, and that lost time is difficult to recover. Staying near allies also lets crowd control and group mitigation support its own tools.</p>
+    <p>Mobility is part of the answer. Demon Dash allows a quick reposition when a hazard appears or the group needs to collapse. Using it before a dangerous cast finishes is better than saving it as a panic button. The aim is to stay in range while keeping a path out of harmful areas.</p>
+  </section>
+
+  <section>
+    <h2>How Does the Soul Loop Drive Damage and Healing?</h2>
+    <p><strong>The core of the specialization is resource management built around consuming souls, which feeds both damage and survivability.</strong></p>
+    <p>Consume Soul is central because it maintains the damage buffs the rest of the kit depends on. Soul Rend contributes healing while adding to overall output, making it a flexible button rather than a purely defensive one. Both abilities compete for attention, and neglecting either weakens the character.</p>
+    <p>Players should think of the loop as a rhythm. Build and spend resources without letting buffs fall away, then use the healing side before the group reaches a crisis. Positioning reduces unnecessary movement, and allied crowd control can create the stable window needed to finish a cycle.</p>
+    <ul>
+      <li>Keep Consume Soul active so damage buffs do not lapse.</li>
+      <li>Use Soul Rend for healing without treating it as the only defensive option.</li>
+      <li>Watch positioning so mechanics do not interrupt the resource loop.</li>
+      <li>Coordinate crowd control and mitigation with the rest of the group.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>How Do Talent Choices Shape the Build?</h2>
+    <p><strong>Talents matter because they can strengthen Consume Soul, add healing, or change how the resource loop feels in practice.</strong></p>
+    <p>A talent that improves Consume Soul can raise the value of the specialization's central ability, while additional healing options make the character more forgiving during long fights. Other choices may support a more aggressive style or a steadier one. No single combination suits every group, so experimentation is part of the process.</p>
+    <p>Talent decisions also interact with gear and stat priorities. A setup built for frequent ability use feels different from one leaning on burst windows. Test combinations in the content you actually run, then keep the version that produces consistent results rather than the one that looks best on paper.</p>
+  </section>
+
+  <section>
+    <h2>Which Gear Priorities Support the Specialization?</h2>
+    <p><strong>Devourer Demon Hunters should favor agility, critical strike, and versatility, along with effects that improve cooldowns or healing.</strong></p>
+    <p>Agility supports the offensive side, while critical strike and versatility add damage and durability. Secondary effects matter too. Gear that reduces cooldowns or enhances healing smooths out the difficult moments that define higher Mythic Plus keys. The goal is a character that keeps functioning when a pull goes wrong, not one that stacks a single number.</p>
+    <p>Item selection should also respect the group context. A defensive effect may be more valuable in a dangerous dungeon than a small offensive gain. Reviewing gear with the encounter in mind produces better choices than chasing item level alone.</p>
+  </section>
+
+  <section class="data-table">
+    <h2>Which Consumables Belong in the Bag?</h2>
+    <p><strong>Consumables are a reliable way to raise both damage and survivability before a key begins.</strong></p>
+    <p>The table lists the consumables most closely associated with the specialization, their effects, their durations, and when they are best used. Preparation is part of performance, especially in content where a single failed pull can cost the timer.</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Consumable</th>
+          <th>Effect</th>
+          <th>Duration</th>
+          <th>When to Use</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Flask of the Currents</td>
+          <td>Raises agility</td>
+          <td>1 hour</td>
+          <td>Before the run to support damage throughout</td>
+        </tr>
+        <tr>
+          <td>Potion of the Devourer</td>
+          <td>Short-term damage increase</td>
+          <td>25 seconds</td>
+          <td>During burst phases and priority targets</td>
+        </tr>
+        <tr>
+          <td>Food buffs such as a feast</td>
+          <td>Increases primary stats</td>
+          <td>1 hour</td>
+          <td>Before group content, especially with allies</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>A flask and food provide a steady baseline, while the potion is saved for the moment it can do the most work. Using it on a trivial pull wastes its value; holding it for a dangerous pack is the better trade.</p>
+  </section>
+
+  <section>
+    <h2>What Should a Reliable Rotation Emphasize?</h2>
+    <p><strong>The rotation should protect uptime on damage abilities while keeping cooldowns available for burst moments.</strong></p>
+    <p>Damage per second depends on sequencing and on not losing time to avoidable movement or poor resource spending. A player who keeps the main abilities rolling and saves cooldowns for key moments will usually outperform one who presses everything immediately. Healing is part of the plan too, because a dead Devourer deals no damage.</p>
+    <p>Reviewing cooldown timing after a run is a useful habit. If a major button was available but unused during a dangerous pack, the rotation needs adjustment. If resources were empty before a burst window, the pacing was too aggressive. Small corrections accumulate into smoother keys.</p>
+  </section>
+
+  <section>
+    <h2>How Can a Devourer Improve Over the Long Term?</h2>
+    <p><strong>Lasting improvement comes from mastering the rotation, learning dungeon mechanics, and continuing to refine gear.</strong></p>
+    <p>Mythic Plus rewards familiarity. Knowing which pull demands a defensive response, which target dies first, and where the group needs crowd control turns the soul loop into a practical tool. Review your performance, ask for feedback, and adjust rather than repeating mistakes.</p>
+    <p>The meta also shifts. Gear changes, new dungeon layouts, and updated talents can alter what works best. Staying current is not about chasing every trend; it is about recognizing when a build no longer fits the content. Mechanical mastery plus a willingness to adapt keeps a player competitive.</p>
+  </section>
+</article>

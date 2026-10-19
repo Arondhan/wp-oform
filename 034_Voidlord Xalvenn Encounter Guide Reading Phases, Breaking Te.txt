@@ -1,0 +1,153 @@
+<article>
+
+  <header>
+
+    <h1>Voidlord Xalvenn Encounter Guide: Reading Phases, Breaking Tethers, and Surviving Burst</h1>
+
+    <p>Voidlord Xalvenn punishes groups that try to improvise. The fight moves through distinct stages, each adding pressure, and the mechanics that define one stage do not disappear when the next begins. A team that understands the transitions can prepare for them instead of reacting late. This breakdown covers the phase structure, tether handling, one-shot threats, positioning, and cooldown planning in the order a group actually experiences them.</p>
+
+  </header>
+
+  <section>
+
+    <h2>How does the encounter change from phase to phase?</h2>
+
+    <p><strong>Xalvenn moves through three distinct phase transitions, and each one adds a new layer of danger to the mechanics already in play.</strong></p>
+
+    <p>The opening phase is the teaching stage. Basic attacks set the rhythm, and tethers appear for the first time, giving the group a chance to learn how the links behave before the fight becomes busier. The second phase raises Xalvenn's damage output and introduces area-of-effect pressure, which turns positioning into a primary concern. The third phase combines the earlier mechanics rather than replacing them, so a group that barely survived the first two stages will find the finale overwhelming.</p>
+
+    <ul>
+
+      <li>Phase one: learn the attack cadence and practice clean tether separation.</li>
+
+      <li>Phase two: expect heavier damage and AoE; keep positioning tight and intentional.</li>
+
+      <li>Phase three: combine every lesson; communication matters more than individual reaction speed.</li>
+
+      <li>Spread defensive cooldowns across the transitions instead of spending them all at once.</li>
+
+    </ul>
+
+  </section>
+
+  <section class="data-table">
+
+    <h2>What should each role focus on during the three phases?</h2>
+
+    <p><strong>The table below pairs each phase with its defining mechanic, the roles most involved, and the practical priority for that stage.</strong></p>
+
+    <p>Use it as a shared reference before the pull so everyone starts with the same expectations.</p>
+
+    <table>
+
+      <thead>
+
+        <tr>
+
+          <th>Phase</th>
+
+          <th>Key Mechanics</th>
+
+          <th>Player Roles</th>
+
+          <th>Strategy Tips</th>
+
+        </tr>
+
+      </thead>
+
+      <tbody>
+
+        <tr>
+
+          <td>Phase 1</td>
+
+          <td>Tether Management</td>
+
+          <td>DPS, Healers</td>
+
+          <td>Focus on learning attack patterns; maintain distance during tethers.</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Phase 2</td>
+
+          <td>AoE Damage</td>
+
+          <td>Tanks, DPS</td>
+
+          <td>Position strategically to avoid AoE; use cooldowns wisely.</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Phase 3</td>
+
+          <td>Combined Mechanics</td>
+
+          <td>All Roles</td>
+
+          <td>Communicate effectively; coordinate movements to avoid wipes.</td>
+
+        </tr>
+
+      </tbody>
+
+    </table>
+
+  </section>
+
+  <section>
+
+    <h2>How do you handle a tether without losing the pull?</h2>
+
+    <p><strong>Tethers appear as visible lines linking players to Xalvenn or to each other, and the response is to create distance from the partner before the link causes damage or debuffs.</strong></p>
+
+    <p>The visual is generous enough that a prepared player can identify a tether early. The mistake is standing still to finish a cast or a damage window. Movement abilities are valuable precisely because they let you break the link without abandoning your position for long. Call the tether out as soon as it appears; a partner who does not know they are linked will not move in the right direction. Practice helps more than any written rule, because the timing of the application becomes familiar after a few attempts.</p>
+
+  </section>
+
+  <section>
+
+    <h2>Which attacks can end an attempt in a single mistake?</h2>
+
+    <p><strong>Xalvenn's one-shot threats are high-damage abilities that target a player or an area, and they demand immediate movement or a defensive response.</strong></p>
+
+    <p>Large area circles announce incoming damage and leave little room for hesitation. Targeted attacks require the victim to move rather than wait for a healer to rescue them. Defensive cooldowns are the correct answer when movement alone will not clear the danger, and staying within reach of the healers improves the odds that a surviving player receives support afterward. The visual language of the fight is consistent: ground markers and boss animations telegraph the dangerous moments. Learning those cues is more reliable than memorizing a timer, since the fight's pressure varies with group execution.</p>
+
+  </section>
+
+  <section>
+
+    <h2>Where should each role stand?</h2>
+
+    <p><strong>Positioning should keep the group spread enough to limit shared damage while preserving access to healing and to the boss.</strong></p>
+
+    <p>Tanks control Xalvenn's movement and absorb the brunt of his attention, so their placement shapes the space everyone else uses. Damage dealers want angles that let them keep attacking without standing in the path of the next mechanic. Healers need to be close enough to reach the group but far enough that an area attack does not catch them alongside their targets. During the tether phase, the critical distance is between partners; during the AoE phase, it is between every player and the danger zone.</p>
+
+  </section>
+
+  <section>
+
+    <h2>When should defensive cooldowns be spent?</h2>
+
+    <p><strong>Save major defensives for the high-damage windows and the moments when a one-shot mechanic is imminent, then coordinate them so they do not overlap.</strong></p>
+
+    <p>A cooldown used early out of nervousness is unavailable when the group actually needs it. The phase transitions are natural anchors: the shift into heavier damage and the combined finale are both predictable pressure points. Healers should announce their major healing cooldowns so the rest of the group knows when to expect extra healing and when to rely on personal defenses. Players should also call out their own cooldowns, which prevents two people from stacking defensives on the same mechanic and leaving the next wave uncovered.</p>
+
+  </section>
+
+  <section>
+
+    <h2>How can a group improve after each attempt?</h2>
+
+    <p><strong>Review the attempt, identify the mechanic that caused the first death, and practice the transition that created the most confusion.</strong></p>
+
+    <p>Logs are useful for answering factual questions: who took the fatal hit, which cooldown was available, and whether a tether was broken in time. The answers should shape the next pull rather than become a source of blame. Gear choices that improve survivability and damage are worth reviewing, but mechanics come first; a well-geared player who misses a tether still dies. Consistent practice builds the reaction time that makes the fight feel slower, and a team that discusses its mistakes openly will usually progress faster than one that repeats the same pull in silence. Soloing Xalvenn is extremely difficult because the mechanics assume coordination, so a group remains the practical path to a kill.</p>
+
+  </section>
+
+</article>

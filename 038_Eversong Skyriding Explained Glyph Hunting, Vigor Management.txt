@@ -1,0 +1,159 @@
+<article>
+
+  <header>
+
+    <h1>Eversong Skyriding Explained: Glyph Hunting, Vigor Management, and Race Route Planning</h1>
+
+    <p>Flying through Eversong Woods on a dragon is one of the expansion's most satisfying pastimes, but the zone rewards pilots who plan rather than drift. Skyriding Glyphs, Vigor discipline, and race routing all feed into the same goal: covering ground quickly while collecting Dragon Shards. The notes below walk through each piece in a practical order, from finding the glyphs to tightening your lines on the race course.</p>
+
+  </header>
+
+  <section>
+
+    <h2>Why should a new pilot care about Skyriding Glyphs?</h2>
+
+    <p><strong>Skyriding Glyphs are collectible objects placed around Eversong Woods that improve your flying abilities and count toward the Glyph Hunter achievement.</strong></p>
+
+    <p>There are eleven of them in the zone, and each one takes the form of a glowing circular ring suspended in the air. They are not sitting on the ground waiting to be picked up; you have to fly through them. Many hover above spires or other prominent structures, which means a pilot who stays low will miss them entirely. Collecting the full set unlocks the Crimson Dragonhawk Mount, so the effort pays off beyond the achievement itself.</p>
+
+    <ul>
+
+      <li>Load coordinate references before takeoff so you are not searching from memory.</li>
+
+      <li>Climb to high vantage points first; rings that blend into the skyline become obvious from above.</li>
+
+      <li>Expect some rings to be temporarily invisible because of a bug, and revisit the spot later.</li>
+
+      <li>Check community updates when a location seems wrong after a patch.</li>
+
+    </ul>
+
+  </section>
+
+  <section class="data-table">
+
+    <h2>Where are the Eversong glyphs actually located?</h2>
+
+    <p><strong>Several of the eleven glyphs sit at well-known landmarks, and the table below lists their names, positions, waypoints, and handling notes.</strong></p>
+
+    <p>Treat this as a starting reference rather than the complete route. The remaining rings follow the same pattern: look for tall architecture, approach from above, and confirm the waypoint before diving.</p>
+
+    <table>
+
+      <thead>
+
+        <tr>
+
+          <th>Glyph Name</th>
+
+          <th>Location</th>
+
+          <th>Coordinates</th>
+
+          <th>Notes</th>
+
+        </tr>
+
+      </thead>
+
+      <tbody>
+
+        <tr>
+
+          <td>The Shining Span</td>
+
+          <td>Bridge between Silvermoon City and Isle of Quel'danas</td>
+
+          <td>/way #2393 48.53 6.43</td>
+
+          <td>May be invisible due to a bug.</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Brightwing Estate</td>
+
+          <td>Atop the highest spire in Brightwing Estate</td>
+
+          <td>/way #2395 65.22 32.62</td>
+
+          <td>Easy to spot from a distance.</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Silvermoon City</td>
+
+          <td>Overlooking Silvermoon City</td>
+
+          <td>/way #2395 58.93 19.54</td>
+
+          <td>Best accessed from above.</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Goldenmist Village</td>
+
+          <td>On top of the highest spire in Goldenmist Village</td>
+
+          <td>/way #2395 39.97 59.64</td>
+
+          <td>Requires careful navigation.</td>
+
+        </tr>
+
+      </tbody>
+
+    </table>
+
+    <p>If the Shining Span ring refuses to appear, circle the bridge rather than landing on it. The ring sits in the air, and approaching from a different altitude often resolves the problem.</p>
+
+  </section>
+
+  <section>
+
+    <h2>How does Vigor change the way you plan a flight?</h2>
+
+    <p><strong>Vigor is the resource that drains while you Skyride, and keeping it topped up is what separates a smooth collection run from a series of emergency landings.</strong></p>
+
+    <p>Flight drains the same pool, so the pilot who spends freely over open water will be gliding reluctantly by the time a ring appears. Vigor orbs scattered through the air are the main remedy, and collecting them during normal travel is far more efficient than stopping to hunt for a refill. Abilities that grant a temporary boost also help, particularly when a glyph sits just beyond a long ascent. The strongest habit is sequencing: use the boost before a climb, gather orbs on the way down, and avoid burning the last of the bar on a shortcut that saves only a second. Alternating dives and ascents also keeps the bar healthier than level flight.</p>
+
+  </section>
+
+  <section>
+
+    <h2>What makes a race route fast rather than merely completed?</h2>
+
+    <p><strong>Race clearing depends on knowing the course, holding a clean line through each checkpoint, and arriving at the finish with enough Vigor to spare.</strong></p>
+
+    <p>Start with a practice pass. Fly the course without worrying about the clock and note where the checkpoints sit, which turns tighten unexpectedly, and whether a shortcut exists that does not sacrifice the next gate. Once the layout is familiar, add speed. The best time usually comes from carrying momentum through the middle of the course rather than from a dramatic burst at the start. Vigor stacking matters here too: a pilot who enters the final stretch empty will lose more time than one who spent a boost earlier to line up a clean approach.</p>
+
+    <p>Abilities that improve flight during critical sections are worth saving for the moments when the route demands a sharp turn or a long climb. Better race performance serves the same Dragon Shard goal, so repeated attempts on the same course are rarely wasted.</p>
+
+  </section>
+
+  <section>
+
+    <h2>How should resources be managed between glyphs and races?</h2>
+
+    <p><strong>Good resource management means watching the Vigor bar, planning refills along the route, and choosing maneuvers that preserve momentum.</strong></p>
+
+    <p>A collection session and a race attempt ask for different pacing. While hunting glyphs, the priority is coverage, so a wide loop that touches several landmarks and passes through orb clusters beats a direct line to a single ring. While racing, the priority is the clock, and unnecessary detours cost more than a missed orb. Aerial maneuvers used deliberately can conserve Vigor while still moving quickly between objectives.</p>
+
+  </section>
+
+  <section>
+
+    <h2>How does a player turn these habits into long-term mastery?</h2>
+
+    <p><strong>Mastery comes from regular flight, deliberate review of each route, and enough familiarity with the mechanics that maneuvers stop requiring conscious thought.</strong></p>
+
+    <p>Short sessions repeated over time build better muscle memory than one marathon collection run. Sharing observations with other pilots can reveal a line or an orb pattern you overlooked, and community discussion is often the fastest way to learn about a bugged ring or a changed location. Glyph positions are generally stable, though patches can introduce changes, so a quick check before a full collection sweep is sensible. The same abilities that make Eversong enjoyable will also serve you in other Skyriding areas, even though the glyphs themselves belong to the zones where they are found.</p>
+
+  </section>
+
+</article>

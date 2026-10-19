@@ -1,0 +1,86 @@
+<article>
+  <header>
+    <h1>Four Horsemen in Naxxramas: Why Eight Tanks Had to Move as One</h1>
+    <p>The Four Horsemen encounter in Naxxramas remains one of the defining tests of the Vanilla era. Four bosses share the room, each with abilities that can punish an unprepared raid. What made the fight famous was not simply damage or health but the choreography required from tanks. An eight-tank rotation, precise spacing, and constant communication turned the encounter into a benchmark that separated organized guilds from hopeful ones.</p>
+  </header>
+
+  <section>
+    <h2>A Vanilla benchmark built on tank choreography</h2>
+    <p><strong>The Four Horsemen fight demands simultaneous control of four bosses and a rotation that spreads a punishing debuff across the tank team.</strong></p>
+    <p>Each Horseman applies a debuff that increases damage taken from subsequent hits, so no tank can absorb endless pressure. The eight-tank rotation exists to ensure that no single tank accumulates too much of that debuff. Positioning is equally important, because tanks must be spaced to avoid overlapping damage while remaining reachable by healers. Guilds that underestimated either element often found themselves unable to progress past the encounter.</p>
+  </section>
+
+  <section>
+    <h2>How the rotation geometry works in practice</h2>
+    <p><strong>The rotation depends on timing and placement as much as on tank survivability.</strong></p>
+    <p>Each Horseman targets a specific tank, and the debuff makes consecutive hits increasingly dangerous. Tanks therefore rotate in and out, taking turns while the others recover. The geometry of the room matters because healers need line of sight and range without pulling aggro from the bosses. Guilds often prepared diagrams showing exactly where each tank should stand. A circular arrangement with even spacing was a common solution, but the important principle was consistency: every tank knew the route, the timing, and the cooldown assigned to their turn.</p>
+    <p>The hardest part was not learning the route but repeating it under pressure. A missed swap or a tank drifting out of position could quickly turn a stable attempt into a recovery situation. Guilds that drilled the movement until it became automatic spent less attention on where to go and more on surviving the damage.</p>
+  </section>
+
+  <section>
+    <h2>The Horsemen and their pressure</h2>
+    <p><strong>The encounter's key statistics help guilds plan damage and cooldown usage.</strong></p>
+    <table>
+      <thead>
+        <tr>
+          <th>Horseman</th>
+          <th>Health</th>
+          <th>Damage Output</th>
+          <th>Debuff Type</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Thane Korth'azz</td>
+          <td>1,000,000</td>
+          <td>5000-7000</td>
+          <td>Increased Damage Taken</td>
+        </tr>
+        <tr>
+          <td>Lady Blaumeux</td>
+          <td>1,000,000</td>
+          <td>4000-6000</td>
+          <td>Increased Damage Taken</td>
+        </tr>
+        <tr>
+          <td>Sir Zeliek</td>
+          <td>1,000,000</td>
+          <td>6000-8000</td>
+          <td>Increased Damage Taken</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Prerequisites before the first pull</h2>
+    <p><strong>Successful execution requires geared tanks, the right consumables, and clearly assigned responsibilities.</strong></p>
+    <p>Tanks should stack stamina, armor, and avoidance to survive the damage spikes. Cooldowns such as Shield Wall or Divine Shield give them tools for the most dangerous moments. Consumables that improve survivability should be treated as part of the plan rather than an afterthought. Communication is just as important: every tank needs to know when to move, where to stand, and which cooldown belongs to their turn. Practice turns the plan into a routine.</p>
+    <p>None of this guarantees success on its own. Gear and consumables raise the margin for error, but the rotation still has to be executed cleanly. A well-prepared group that communicates poorly can still fail, which is why preparation and coordination are treated as a single requirement rather than separate ones.</p>
+  </section>
+
+  <section>
+    <h2>Positioning that keeps healers in range</h2>
+    <p><strong>A staggered formation reduces overlapping damage and keeps each tank accessible to healing.</strong></p>
+    <p>Tanks should be spread enough that the Horsemen's abilities do not catch several of them at once. At the same time, they must remain within reach of the healers, who cannot afford to chase tanks through the room or risk pulling aggro. Players should adjust their positions as the fight develops instead of trusting a single initial setup. Awareness of the room and of the other tanks' placement prevents small spacing errors from becoming fatal.</p>
+  </section>
+
+  <section>
+    <h2>Metrics worth reviewing after each attempt</h2>
+    <p><strong>Damage taken, rotation efficiency, and healing output are the most useful measures of execution.</strong></p>
+    <p>Damage taken by each tank shows whether the rotation is spreading pressure as intended. If one tank consistently absorbs more than the others, the timing or order may need adjustment. Rotation efficiency reveals hesitation, missed swaps, or positioning errors. Healing output shows whether healers are managing resources and responding to spikes. Reviewing these numbers after an attempt turns vague impressions into specific fixes.</p>
+    <p>The numbers are most useful when compared across attempts rather than judged in isolation. A single pull can be misleading, but a pattern across several attempts points to a fixable problem. That habit of comparison is what turns practice into progress.</p>
+  </section>
+
+  <section>
+    <h2>Expert habits that separate clean kills from wipes</h2>
+    <p><strong>Preparation, communication, and continuous practice are the habits that let a guild master the encounter.</strong></p>
+    <p>Guilds should ensure tanks are properly equipped and supplied before dedicating an evening to attempts. Roles and responsibilities need to be explicit, especially for the rotation. Common mistakes include poor positioning, unclear communication about swaps, and ineffective cooldown management, all of which increase damage taken and can lead to a wipe. Regular practice and honest analysis of each attempt help a guild refine its approach. The Four Horsemen remain a benchmark because they reward exactly that kind of discipline.</p>
+    <ul>
+      <li>Confirm each tank's position and swap timing before the pull.</li>
+      <li>Review damage taken and healing after every attempt.</li>
+      <li>Keep communication short and specific during the fight.</li>
+      <li>Refine the plan instead of repeating the same mistakes.</li>
+    </ul>
+  </section>
+</article>

@@ -1,0 +1,81 @@
+<article>
+
+  <header>
+    <h1>Managing Xalatath Keys and Gilded Crests in High-Level Mythic Plus Runs</h1>
+    <p>Mythic Plus rewards preparation as much as raw damage. Affixes reshape each dungeon, and the pressure of a timer turns small mistakes into lost rewards. This article explains how the Xal'atath modifiers affect a run, how to reduce the risk of a bricked key, and how to approach Gilded Crest value without treating every pull as a race.</p>
+  </header>
+
+  <section>
+    <h2>How Affixes Change a Dungeon</h2>
+    <p><strong>Mythic Plus affixes are modifiers that raise difficulty by adding mechanics the group must answer.</strong></p>
+    <p>Affixes become active according to keystone level, so the same dungeon can feel very different from one week to the next. The level 4 bracket introduces Xal'atath's Bargain modifiers, and these can change how enemies behave and what the group must answer. A combination of affixes can create problems that neither modifier would cause alone. Knowing the current rotation before the key starts is therefore more useful than discovering the rules during the first dangerous pull.</p>
+  </section>
+
+  <section>
+    <h2>Reducing the Risk of a Bricked Key</h2>
+    <p><strong>Managing a Xalatath key means planning for the affix instead of reacting to it after the group is already behind.</strong></p>
+    <p>The group should agree on who handles each mechanic before the run begins. Crowd control becomes especially valuable when modifiers add enemies, because controlling density prevents a manageable pack from becoming an overwhelming one. Target priority matters too: some enemies strengthen the affix effect and should be removed before the group commits to a longer fight. Cooldowns should be assigned to the moments that actually threaten the run rather than spent on the first available pull.</p>
+    <ul>
+      <li>Confirm each player's responsibility for the affix before starting the key.</li>
+      <li>Use crowd control to keep added enemies from overwhelming the group.</li>
+      <li>Kill targets that amplify the affix before settling into a prolonged fight.</li>
+      <li>Save defensive and offensive cooldowns for the pulls that decide the timer.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Protecting the Value of Gilded Crests</h2>
+    <p><strong>Gilded Crests are awarded for finishing a Mythic Plus dungeon before the timer expires, so speed and consistency directly affect the reward.</strong></p>
+    <p>Finishing faster improves the outcome, but reckless speed creates wipes that cost more time than they save. A balanced composition, careful consumable use, and a realistic route are more dependable than trying to recover from a failed shortcut. The table below groups the main levers and the result each one is meant to produce. Notes in the original guidance also point to finishing with at least 40 percent of the timer remaining for maximum upgrades, which makes time tracking a habit rather than a final glance.</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Strategy</th>
+          <th>Details</th>
+          <th>Expected Outcome</th>
+          <th>Notes</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Optimize group composition</td>
+          <td>Balance damage, healing, and crowd control</td>
+          <td>Faster clear times</td>
+          <td>Adapt to dungeon mechanics</td>
+        </tr>
+        <tr>
+          <td>Focus on time management</td>
+          <td>Complete the dungeon with at least 40% of the timer remaining</td>
+          <td>Higher keystone levels</td>
+          <td>Track time closely</td>
+        </tr>
+        <tr>
+          <td>Use potions and buffs</td>
+          <td>Consumables for key encounters</td>
+          <td>Improved damage and survival</td>
+          <td>Plan around difficult pulls</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>Affixes That Deserve Extra Attention</h2>
+    <p><strong>Xal'atath's Bargain and the seasonal modifiers around it are the main sources of unexpected pressure.</strong></p>
+    <p>Each variant asks for a different response. The Ascendant modifier, for example, can increase the damage output of certain enemies, which shifts the burden toward burst healing and damage mitigation. Other variants may change how the group handles positioning or additional enemies. Learning the specific tell for each affix makes it possible to prepare a response before the pull rather than improvise after the first hit.</p>
+  </section>
+
+  <section>
+    <h2>Raising the Group's Overall Standard</h2>
+    <p><strong>Consistent Mythic Plus performance comes from gear, execution, and communication reinforcing one another.</strong></p>
+    <p>Gear should support the role the character is expected to perform, not simply carry the highest item level. Rotation and cooldown discipline determine whether that gear is used well during the moments that matter. Communication ties the two together: a group that discusses routes, assignments, and affix handling can adjust when a plan stops working. These improvements are less visible than a single spectacular pull, but they are what turns occasional success into a reliable routine.</p>
+  </section>
+
+  <section>
+    <h2>When the Keystone Level Drops</h2>
+    <p><strong>A lost key is a prompt to review the run, not a reason to abandon the group's approach entirely.</strong></p>
+    <p>Identify where the timer was lost, whether through deaths, inefficient pulls, or confusion about an affix. Then adjust the plan for the next attempt and keep the changes small enough to practice. Improving communication and correcting one recurring mistake often does more than a complete overhaul. The goal is to leave each failed key with a clearer plan than the one that started it.</p>
+    <p>It also helps to separate execution errors from route errors. A route problem repeats in the same place regardless of the group, while an execution problem usually disappears once the mechanic is understood. Naming the difference prevents the group from changing everything at once and losing the parts that already worked.</p>
+  </section>
+
+</article>

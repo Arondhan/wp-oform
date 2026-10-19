@@ -1,0 +1,67 @@
+<article>
+
+<header>
+<h1>Windrunner Spire on a Budget: Ranged Mobility Tactics for the Opening Week</h1>
+<p>Windrunner Spire arrives with the Midnight expansion and asks groups to move constantly while keeping damage flowing. A ranged-heavy setup suits that demand, provided the players understand what each encounter is trying to punish. This guide outlines the dungeon's requirements, the boss and trash threats, and a practical way to assemble and prepare a mobile ranged composition for early progression.</p>
+</header>
+
+<section>
+<h2>What Does the Dungeon Demand From a Group?</h2>
+<p><strong>Windrunner Spire sits in Eversong Woods, targets level 90 characters, and offers Normal, Heroic, and Mythic difficulties across four bosses.</strong></p>
+<p>The instance rewards positioning more than raw durability. Hazardous ground, forced movement, and abilities that punish clustered players all appear in the run. A group that drifts into a bad spot loses time and healing, while a group that plans its movement can keep pressure on the target. That is why ranged classes with reliable escapes and instant repositioning tools feel comfortable here.</p>
+<p>Early in an expansion, gear is still thin and routes are unfamiliar. The safest approach is to treat every pull as a chance to practice spacing rather than a race to the next pack.</p>
+</section>
+
+<section>
+<h2>Which Boss Abilities Shape the Fight?</h2>
+<p><strong>Each of the four encounters tests movement in a different way, from fire zones to charges and area bursts.</strong></p>
+<p>Emberdawn opens with fire-based pressure. Flaming Updrafts and Burning Gale push players around and leave dangerous patches on the floor, so the group needs room to retreat without stepping into another hazard. The Derelict Duo, Kalis and Latch, leans on crowd control and direct damage through Shadowbolt and Debilitating Shriek; interrupts and control management matter more than constant running. Commander Kroluk uses Charge and Ground Slam, which rewards spreading out before impact. The Restless Heart brings Heartstopper and Shadow Burst, both of which make clean positioning and quick exits valuable.</p>
+<table>
+<thead>
+<tr><th>Boss</th><th>Key Abilities</th><th>Strategy Focus</th><th>Mobility Demand</th></tr>
+</thead>
+<tbody>
+<tr><td>Emberdawn</td><td>Flaming Updrafts, Burning Gale</td><td>Stay mobile and avoid fire patches</td><td>High; frequent repositioning</td></tr>
+<tr><td>Derelict Duo</td><td>Shadowbolt, Debilitating Shriek</td><td>Interrupt and manage crowd control</td><td>Moderate; avoid pulls</td></tr>
+<tr><td>Commander Kroluk</td><td>Charge, Ground Slam</td><td>Spread out to reduce damage</td><td>High; dodge charges</td></tr>
+<tr><td>The Restless Heart</td><td>Heartstopper, Shadow Burst</td><td>Manage spacing against area damage</td><td>High; leave area zones</td></tr>
+</tbody>
+</table>
+<p>Knowing the names of these abilities is useful, but the real lesson is behavioral: keep an exit route in mind before the cast begins.</p>
+</section>
+
+<section>
+<h2>How Should Trash Be Handled?</h2>
+<p><strong>Trash packs can end a run quickly when control and focus are neglected, especially around mobs that disable or burst players.</strong></p>
+<p>The Ardent Cutthroat and Devoted Woebringer are the notable threats. Their abilities can incapacitate a member or produce heavy damage if left alone. A ranged group should decide before each pull which target dies first and who is responsible for stopping the dangerous cast.</p>
+<ul>
+<li>Apply stuns and slows to the most threatening mob rather than spreading control across the pack.</li>
+<li>Call a focus target so the group removes one enemy before it can act again.</li>
+<li>Use area damage once the pack is controlled, not before it is gathered.</li>
+<li>Watch for ability tells and move early instead of waiting for a cast to finish.</li>
+</ul>
+<p>These habits matter more than a perfect route. A clean, slow pull costs less time than a wipe caused by an unmanaged disable.</p>
+</section>
+
+<section>
+<h2>Which Ranged Classes Fit the Composition?</h2>
+<p><strong>Hunters, Mages, Warlocks, and Balance Druids all bring distance damage plus a reliable way to escape danger.</strong></p>
+<p>Hunters are the obvious starting point. Beast Mastery and Marksmanship both deliver strong burst from range, and Disengage provides a quick answer to a bad position. Mages add area pressure through Frost or Fire while Blink creates instant distance. Affliction Warlocks keep damage ticking and can reposition with Demonic Circle. Balance Druids contribute damage and utility, with Travel Form helping them cross dangerous ground quickly.</p>
+<p>A balanced group does not need every one of these classes. It needs enough overlap that a single death or cooldown does not leave the group unable to handle a mechanic. Two reliable ranged damage dealers, a healer who can move, and a tank comfortable with kiting form a solid foundation.</p>
+</section>
+
+<section>
+<h2>What Gear Preparation Matters Most?</h2>
+<p><strong>Item level, useful trinkets, and basic enhancements provide more value than chasing a perfect drop in the first week.</strong></p>
+<p>Higher item level generally means better stats, so taking upgrades from bosses is the simplest path. For ranged damage, the relevant primary stat depends on the class. Trinkets that support burst damage or reduce cooldown pressure are worth prioritizing when they drop. Enchanting and gemming available gear closes small gaps, and consumables that boost primary stats help during progression attempts.</p>
+<p>None of this requires an exhaustive shopping list. A character with reasonable item level, functional trinkets, and the usual enchants is ready to learn the dungeon.</p>
+</section>
+
+<section>
+<h2>How Should the First Week Be Structured?</h2>
+<p><strong>Communication, repetition, and a willingness to change tactics separate a frustrating opening week from a productive one.</strong></p>
+<p>Assign responsibilities before the run: who interrupts, who controls the dangerous trash target, and who calls movement. Use voice chat for mechanics that require a fast reaction. Run the instance more than once so the route and cast timings become familiar. After each attempt, discuss what caused the most damage or lost the most time, then adjust the plan rather than repeating the same mistake.</p>
+<p>Flexibility matters as much as preparation. If a composition struggles with a particular boss, change the approach instead of forcing the original strategy. Mastery of Windrunner Spire comes from repeated, deliberate runs, not from a single perfect setup.</p>
+</section>
+
+</article>

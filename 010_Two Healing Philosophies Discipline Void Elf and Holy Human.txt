@@ -1,0 +1,71 @@
+<article>
+
+<header>
+<h1>Two Healing Philosophies: Discipline Void Elf and Holy Human Priests in Sustained Raids</h1>
+<p>Priest healing is not a single style with cosmetic differences. Discipline and Holy approach sustained raid damage from opposite directions, and the racial choice adds another layer to the comparison. One spec tries to prevent damage while contributing offense; the other focuses on steady, direct restoration. Understanding that contrast helps a player choose a build that matches the way they read a fight.</p>
+</header>
+
+<section>
+<h2>How Do the Two Healing Profiles Differ?</h2>
+<p><strong>Void Elf Discipline leans on mitigation and proactive healing, while Human Holy emphasizes direct throughput and group support.</strong></p>
+<p>Discipline's identity comes from turning damage into healing. Its output is tied to maintaining Atonement and timing cooldowns around incoming pressure. Holy works more conventionally, using direct heals to respond to health loss and supporting the raid with group-wide tools. Neither approach is universally better; they solve the same problem with different timing.</p>
+<table>
+<thead>
+<tr><th>Profile</th><th>Healing Output</th><th>Cooldown Management</th><th>Utility</th><th>Damage Mitigation</th></tr>
+</thead>
+<tbody>
+<tr><td>Void Elf Discipline</td><td>Moderate to high</td><td>Requires careful timing</td><td>Shields and buffs</td><td>Strong</td></tr>
+<tr><td>Human Holy</td><td>High</td><td>Consistent</td><td>Group heals and buffs</td><td>Moderate</td></tr>
+</tbody>
+</table>
+<p>The table summarizes tendencies rather than a scoreboard. A Discipline priest who mistimes cooldowns can look weak, and a Holy priest who wastes mana can run dry despite a strong toolkit.</p>
+</section>
+
+<section>
+<h2>How Does a Void Elf Discipline Priest Handle Sustained Damage?</h2>
+<p><strong>Discipline sustains the raid by dealing damage and healing through Atonement while using shields to blunt incoming hits.</strong></p>
+<p>The spec's core spells blur the line between offense and support. Penance and Shadow Mend both restore health while contributing to the damage side of the kit, and Power Word: Shield applies Atonement to allies before pressure arrives. The healer is effectively planning ahead: build the healing link, then deal damage so the link pays out.</p>
+<p>That duality is powerful but demanding. The priest must keep track of who has Atonement, which enemies are worth attacking, and when a cooldown is needed for a dangerous phase. Healing per second is tied to damage output, so a moment spent doing neither is a moment of lost throughput.</p>
+</section>
+
+<section>
+<h2>What Does a Human Holy Priest Bring to the Raid?</h2>
+<p><strong>Holy offers reliable, direct healing and strong group tools, making it forgiving when damage arrives in sudden bursts.</strong></p>
+<p>The toolkit is built around Heal, Flash Heal, and Prayer of Healing. Those spells let the priest respond immediately to a health drop without first setting up a damage link. Guardian Spirit provides a powerful cooldown for critical moments, and the Human racial ability The Human Spirit enhances secondary stats, supporting healing output and mana regeneration.</p>
+<p>That combination makes Holy a comfortable primary healer. It is less dependent on enemy targeting than Discipline and more straightforward to operate when the raid is taking consistent, unpredictable damage.</p>
+</section>
+
+<section>
+<h2>What Is the Correct Healing Sequence for Discipline?</h2>
+<p><strong>Discipline play follows a prepare, damage, and shield pattern that rewards planning more than reaction.</strong></p>
+<ol>
+<li>Apply Atonement to as many allies as possible, using Power Word: Shield as a primary tool.</li>
+<li>Attack enemies with Penance so the damage converts into healing for the marked group.</li>
+<li>Watch cooldowns and use Shadowfiend to recover mana during demanding phases.</li>
+<li>Use Rapture when heavy damage is incoming, adding shields before the hit rather than after it.</li>
+</ol>
+<p>The sequence is simple to describe and difficult to execute under pressure. Its success depends on knowing the fight well enough to start preparing before the damage bar moves.</p>
+</section>
+
+<section>
+<h2>How Should Holy Approach Sustained Damage?</h2>
+<p><strong>Holy performs best with a steady healing rhythm, efficient cooldown use, and careful positioning within the raid.</strong></p>
+<p>The goal is to keep a consistent flow of heals without overspending mana. Flash Heal answers emergencies, while Heal and Prayer of Healing handle routine restoration. Cooldowns should be placed where they prevent a crisis rather than saved until after one has already begun.</p>
+<p>Positioning matters as much as spell choice. Standing where group heals can reach the players who need them, and where the priest can see incoming mechanics, reduces wasted casts. Communication helps too: telling the raid which cooldown is available lets other healers plan around it.</p>
+</section>
+
+<section>
+<h2>What Problems Can Each Build Face?</h2>
+<p><strong>Discipline struggles with mana and dependence on damage, while Holy can suffer from poor cooldown timing.</strong></p>
+<p>A Discipline priest who cannot attack loses much of the healing engine. Prolonged encounters also strain mana if the balance between damage and healing is not managed carefully. The spec asks the player to remain active on both fronts, which is harder when movement or mechanics interrupt the rotation.</p>
+<p>Holy's risk is more about rhythm. If Guardian Spirit or another major cooldown is used at the wrong moment, the raid may have no answer when the truly dangerous phase arrives. Mana efficiency and cooldown discipline are the main safeguards.</p>
+</section>
+
+<section>
+<h2>How Can Players Improve Over Time?</h2>
+<p><strong>Log review, practice, and adaptation to raid composition turn a basic understanding of either spec into reliable performance.</strong></p>
+<p>Studying logs shows where healing was wasted, which cooldowns overlapped, and how quickly the priest responded to damage. Feedback from experienced players adds context that a number cannot provide. Regular practice in the actual encounters is more valuable than theoretical optimization alone.</p>
+<p>Both builds also benefit from flexibility. Raid compositions change, damage patterns differ between bosses, and a strategy that worked last week may need adjustment. A healer who understands the underlying philosophy of their spec, rather than memorizing one sequence, can adapt without starting over.</p>
+</section>
+
+</article>

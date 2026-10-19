@@ -1,0 +1,145 @@
+<article>
+
+  <header>
+
+    <h1>How Raid Design Grew More Demanding Across Twelve Years of Encounters</h1>
+
+    <p>Over twelve years, World of Warcraft raiding moved from relatively direct boss fights toward layered encounters that reward planning and quick reactions. Legion's Mythic C'Thun and Argus stand near the end of that arc. One revisits an encounter from the original game; the other closes the expansion as its final boss. Together they show what modern raid design expects from a group and what raiders learned along the way.</p>
+
+  </header>
+
+  <section>
+
+    <h2>How Should a Raid Team Prepare for These Fights?</h2>
+
+    <p><strong>Preparation starts with knowledge, continues through gear, and ends with repetition that makes the mechanics feel familiar.</strong></p>
+
+    <p>Players should read encounter guides and watch footage so the sequence of phases is not a surprise. Gear matters as well: the best available equipment, gems, and enchants, chosen with the class and spec's stat priorities in mind, affect both survivability and damage. Practicing in normal or heroic modes gives a team room to test positioning and assignments before the harder version. Communication deserves the same attention as gear, because clear roles and calls prevent confusion when several mechanics overlap.</p>
+
+    <ul>
+
+      <li>Review encounter guides and video explanations before the first pull.</li>
+
+      <li>Optimize gear for the role, including gems and enchants.</li>
+
+      <li>Practice movement and positioning in a raid setting.</li>
+
+      <li>Agree on responsibilities and call-outs with the rest of the team.</li>
+
+    </ul>
+
+    <p>The goal of all this work is not to memorize a script but to make the opening phases predictable. When everyone knows where to stand and who is responsible for each threat, the group has attention left for the parts of the fight that cannot be planned in advance.</p>
+
+  </section>
+
+  <section>
+
+    <h2>What Does Mythic C'Thun Ask of a Group?</h2>
+
+    <p><strong>Mythic C'Thun combines eye beams, tentacle spawns, and mind control into a fight that punishes careless spacing.</strong></p>
+
+    <p>The encounter is a reimagining of a battle from the original game, and it mixes familiar ideas with new pressure. Players have to watch their positions so eye beams do not overlap, while tentacles appear and threaten to incapacitate anyone who ignores them. Mind control can turn an ally against the raid, which makes awareness of other players as important as awareness of the boss. The fight moves through distinct phases, and each one changes what the group must prioritize.</p>
+
+  </section>
+
+  <section>
+
+    <h2>Why Is Argus Considered a Multi-Phase Test?</h2>
+
+    <p><strong>Argus, the final boss of Legion, demands adaptation as environmental hazards and dangerous adds shift the terms of the fight.</strong></p>
+
+    <p>Its phases do not allow a team to settle into one routine. Hazards in the environment force movement, adds need immediate attention before they overwhelm the raid, and positioning has to be adjusted as the encounter develops. The result is a fight where individual performance matters, but coordination matters more. A group that reacts late to a phase change can lose control even if every player knows the basic strategy. Surviving the transition is often less about a perfect plan than about recognizing what the encounter has just asked the raid to do.</p>
+
+  </section>
+
+  <section>
+
+    <h2>Which Strategies Hold Up in Both Encounters?</h2>
+
+    <p><strong>Spacing, assigned responsibilities, and well-timed cooldowns give a raid the structure it needs when mechanics overlap.</strong></p>
+
+    <p>Against C'Thun, keeping distance from other players limits the damage from eye beams, and assigning specific people to handle tentacles keeps the rest of the group free to act. Argus rewards a more fluid approach, with players ready to move and switch targets as phases change. In both cases, defensive cooldowns used at the right moment can carry a group through a dangerous stretch. The table below compares the core demands of each fight.</p>
+
+    <table>
+
+      <thead>
+
+        <tr>
+
+          <th>Boss</th>
+
+          <th>Main Strategy</th>
+
+          <th>Key Mechanics</th>
+
+          <th>Roles Involved</th>
+
+        </tr>
+
+      </thead>
+
+      <tbody>
+
+        <tr>
+
+          <td>Mythic C'Thun</td>
+
+          <td>Keep spacing and control tentacles.</td>
+
+          <td>Eye beams, tentacle spawns, mind control.</td>
+
+          <td>Tanks, damage dealers, healers.</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Argus</td>
+
+          <td>Adapt to phases and manage adds.</td>
+
+          <td>Environmental hazards, adds, phase transitions.</td>
+
+          <td>Tanks, damage dealers, healers.</td>
+
+        </tr>
+
+        <tr>
+
+          <td>Both</td>
+
+          <td>Use cooldowns deliberately and communicate.</td>
+
+          <td>Positioning, awareness, teamwork.</td>
+
+          <td>All roles.</td>
+
+        </tr>
+
+      </tbody>
+
+    </table>
+
+  </section>
+
+  <section>
+
+    <h2>Which Advanced Habits Improve Execution?</h2>
+
+    <p><strong>Class abilities, cooldown timing, and situational awareness separate a clean attempt from a costly one.</strong></p>
+
+    <p>Mobile classes can reposition quickly when a mechanic forces movement, while classes with strong defensive tools should save them for the moments that actually threaten the raid. Coordinating those abilities with teammates makes them more effective than using them in isolation. Add-ons can track cooldowns, debuffs, and positions, and raid frames help healers see who needs attention. Reviewing raid logs afterward turns a vague sense of what went wrong into a specific list of fixes.</p>
+
+  </section>
+
+  <section>
+
+    <h2>What Sustains a Raid Team Over the Long Term?</h2>
+
+    <p><strong>Consistent practice, open communication, and a willingness to adjust are what keep a group improving after the first clear.</strong></p>
+
+    <p>Raiding well is less about a single perfect attempt than about repeating the work until good habits become automatic. Teams that discuss strategy, give constructive feedback, and celebrate progress tend to stay together longer. They also remain open to change, because class adjustments and encounter tuning can alter what works. Engaging with the wider raiding community through guides and discussion adds another source of ideas, but the foundation remains the group's own commitment to growth.</p>
+
+  </section>
+
+</article>
