@@ -9,6 +9,8 @@ Goal: a visitor lands on a blog that looks like a real, cared-for personal gamin
 - No fake stats ("20+ years", "18k clients", "24/7"), no testimonials, no social links, no `#` links, no lorem, no example.com, no demo images, no newsletter forms, no fake addresses/phones.
 - Anchors/links on the home are untouched when we only fix looks (one link, same anchor, same URL).
 
+- Post formats: never use explicit 'Q:/A:' or 'F:/A:' prefixed lines (interview / Q&A scripts with a label before every reply). Q&A content is allowed only as question headings or plain prose paragraphs. (User decision, 2026-11-15: the few existing posts stay as they are.)
+
 ## 1. What the reference does well (structure only)
 downwardgame.com (WoW class/raid guides, block theme `blockskit-*`):
 1. Slim header: small logo + site name left, 3-4 plain menu items. No search clutter, no social icons.
